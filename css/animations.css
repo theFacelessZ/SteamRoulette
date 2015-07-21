@@ -31,29 +31,14 @@
     
 }
 
-@keyframes opacityLoop {
+@keyframes gameShowUp {
     0% {
-        opacity: 0.85;
+        top: 80%;
     }
-    24% {
-        opacity: 0.73;
-    }
-    38% {
-        opacity: 1;
-    }
-    46% {
-        opacity: 0.53;
-    }
-    59% {
-        opacity: 1;
-    }
-    78% {
-        opacity: 0.74;
-    }
-    94% {
-        opacity: 0.85;
+    20% {
+        top: 40%;
     }
     100% {
-        opacity: 1;
+        top: 50%;
     }
 }
