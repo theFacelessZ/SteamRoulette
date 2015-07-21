@@ -1,0 +1,59 @@
+@keyframes showUp {
+    0% {
+        top: -50%;
+    }
+    30% {
+        top: 150%;
+    }
+    31% {
+        opacity: 0;
+    }
+    32% {
+        top: -50%;
+        opacity: 0;
+    }
+    33% {
+        opacity: 1;
+    }
+    80% {
+        top: 150%;
+    }
+    81% {
+        opacity: 0;
+    }
+    82% {
+        top: -50%;
+        opacity: 1;
+    }
+    100% {
+        top: 50%;
+    }
+    
+}
+
+@keyframes opacityLoop {
+    0% {
+        opacity: 0.85;
+    }
+    24% {
+        opacity: 0.73;
+    }
+    38% {
+        opacity: 1;
+    }
+    46% {
+        opacity: 0.53;
+    }
+    59% {
+        opacity: 1;
+    }
+    78% {
+        opacity: 0.74;
+    }
+    94% {
+        opacity: 0.85;
+    }
+    100% {
+        opacity: 1;
+    }
+}
