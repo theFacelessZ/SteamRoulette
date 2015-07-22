@@ -47,10 +47,18 @@ $(window).load(function() {
         getRandom();
     });
     
+    $('.dataWrapper').removeAttr('style');
+    $('.dataWrapper').css('animation', 'showUp 500ms');
+});
+
+$(document).ready(function() {
+
     $('.gameName').bind("webkitAnimationEnd", function() {
         $(this).css('animation-name', 'none');
     });
     
-    $('.dataWrapper').removeAttr('style');
-    $('.dataWrapper').css('animation', 'showUp 500ms');
+    $('.gameName').bind("animationend", function() {
+        $(this).css('animation-name', 'none');
+    });
+    
 });
