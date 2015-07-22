@@ -10,7 +10,7 @@ function contains(s) {
     var found = false;
     
     $(args).each(function() {
-        if (String(s).toLowerCase().indexOf(String(this)) >= 0) {
+        if (String(s).toLowerCase().indexOf(String(this).toLowerCase()) >= 0) {
             console.log('Found ' + this + ' in ' + s + ', skipping...');
             found = true;
             return false; //break
@@ -29,7 +29,7 @@ function getRandom() {
         var r = Math.round(s * Math.random());
         var g = $(json.applist.apps.app)[r].name;
         
-        while(contains(g, "trailer", "pack", "demo", "additional content", "dlc", "beta", "add-on", "mod", "sdk", "soundtrack", "teaser", "server", "preorder", "bundle", "announcement", "content", "gameplay", "editor", "strategy guide", "bonus kit", "ost", "tutorial")) {
+        while(contains(g, "_", "ValveTestApp", "trailer", "video", "pack", "demo", "additional content", "dlc", "beta", "add-on", "mod", "sdk", "soundtrack", "teaser", "server", "preorder", "bundle", "announcement", "content", "gameplay", "editor", "strategy guide", "bonus kit", "ost", "tutorial", "amd", "web designer", "addon", "season pass", "cinematic", "intro", "press review", "online", "maya", "blender", "upgrade", "toolkit", "osx", "announcer", "digital art book", "pc gamer", "rpg maker", "magic 2014")) {
             r = Math.round(s * Math.random());
             g = $(json.applist.apps.app)[r].name;
         }
@@ -42,7 +42,7 @@ function getRandom() {
     });
 }
 
-$(document).ready(function() {
+$(window).load(function() {
     $('.button').click(function() {
         getRandom();
     });
@@ -51,5 +51,6 @@ $(document).ready(function() {
         $(this).css('animation-name', 'none');
     });
     
+    $('.dataWrapper').removeAttr('style');
     $('.dataWrapper').css('animation', 'showUp 500ms');
 });

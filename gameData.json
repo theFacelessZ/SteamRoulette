@@ -3,18 +3,6 @@
 		"apps": {
 			"app": [
 				{
-					"appid": 5,
-					"name": "Dedicated Server"
-				},
-				{
-					"appid": 7,
-					"name": "Steam Client"
-				},
-				{
-					"appid": 8,
-					"name": "winui2"
-				},
-				{
 					"appid": 10,
 					"name": "Counter-Strike"
 				},
@@ -55,28 +43,8 @@
 					"name": "Codename Gordon"
 				},
 				{
-					"appid": 100,
-					"name": "Counter-Strike: Condition Zero Deleted Scenes"
-				},
-				{
 					"appid": 130,
 					"name": "Half-Life: Blue Shift"
-				},
-				{
-					"appid": 150,
-					"name": "Counter-Strike Steamworks Beta"
-				},
-				{
-					"appid": 205,
-					"name": "Source Dedicated Server"
-				},
-				{
-					"appid": 210,
-					"name": "Source Dedicated Server"
-				},
-				{
-					"appid": 211,
-					"name": "Source SDK"
 				},
 				{
 					"appid": 215,
@@ -97,10 +65,6 @@
 				{
 					"appid": 240,
 					"name": "Counter-Strike: Source"
-				},
-				{
-					"appid": 260,
-					"name": "Counter-Strike: Source Beta"
 				},
 				{
 					"appid": 280,
@@ -129,10 +93,6 @@
 				{
 					"appid": 360,
 					"name": "Half-Life Deathmatch: Source"
-				},
-				{
-					"appid": 364,
-					"name": "HL1:MP Linux client"
 				},
 				{
 					"appid": 380,
@@ -167,10 +127,6 @@
 					"name": "Team Fortress 2 - Summer 2011 DLC"
 				},
 				{
-					"appid": 459,
-					"name": "Team Fortress 2 - Premium DLC"
-				},
-				{
 					"appid": 480,
 					"name": "Spacewar"
 				},
@@ -179,84 +135,16 @@
 					"name": "Left 4 Dead"
 				},
 				{
-					"appid": 510,
-					"name": "Left 4 Dead Dedicated Server"
-				},
-				{
-					"appid": 513,
-					"name": "Left 4 Dead Authoring Tools"
-				},
-				{
 					"appid": 520,
 					"name": "Team Fortress 2 Beta"
-				},
-				{
-					"appid": 530,
-					"name": "Left 4 Dead Demo"
-				},
-				{
-					"appid": 540,
-					"name": "Left 4 Dead Demo Dedicated Server"
 				},
 				{
 					"appid": 550,
 					"name": "Left 4 Dead 2"
 				},
 				{
-					"appid": 560,
-					"name": "Left 4 Dead 2 Dedicated Server"
-				},
-				{
-					"appid": 563,
-					"name": "Left 4 Dead 2 Authoring Tools"
-				},
-				{
-					"appid": 564,
-					"name": "Left 4 Dead 2 Add-on Support"
-				},
-				{
-					"appid": 565,
-					"name": "Left 4 Dead 2 Preorder DLC"
-				},
-				{
 					"appid": 570,
 					"name": "Dota 2"
-				},
-				{
-					"appid": 575,
-					"name": "Dota 2 - English Depot"
-				},
-				{
-					"appid": 576,
-					"name": "Dota 2 - SteelSeries DLC "
-				},
-				{
-					"appid": 581,
-					"name": "Dota 2 - Murrissey the Smeevil"
-				},
-				{
-					"appid": 582,
-					"name": "Dota 2 - Lockjaw the Boxhound"
-				},
-				{
-					"appid": 583,
-					"name": "Dota 2 - Drodo the Druffin"
-				},
-				{
-					"appid": 584,
-					"name": "Dota 2 - Inflatable Donkey Courier"
-				},
-				{
-					"appid": 585,
-					"name": "Dota 2 - Plush Donkey Courier"
-				},
-				{
-					"appid": 586,
-					"name": "Dota 2 - International Axe"
-				},
-				{
-					"appid": 590,
-					"name": "Left 4 Dead 2 Demo"
 				},
 				{
 					"appid": 620,
@@ -277,10 +165,6 @@
 				{
 					"appid": 640,
 					"name": "Alien Swarm - SDK"
-				},
-				{
-					"appid": 644,
-					"name": "Portal 2 Publishing Tool"
 				},
 				{
 					"appid": 650,
@@ -479,42 +363,6 @@
 					"name": "SourceForts Trailer"
 				},
 				{
-					"appid": 929,
-					"name": "Uplink Trailer"
-				},
-				{
-					"appid": 930,
-					"name": "Half-Life 2: Episode Two Trailer 2"
-				},
-				{
-					"appid": 931,
-					"name": "Team Fortress 2 Trailer 2"
-				},
-				{
-					"appid": 932,
-					"name": "Half-Life 2: Episode Two Gameplay Movie 1"
-				},
-				{
-					"appid": 933,
-					"name": "Half-Life 2: Episode Two Gameplay Movie 2"
-				},
-				{
-					"appid": 934,
-					"name": "Half-Life 2: Episode Two Gameplay Movie 3"
-				},
-				{
-					"appid": 935,
-					"name": "Dark Messiah Gameplay Trailer"
-				},
-				{
-					"appid": 936,
-					"name": "Half-Life 2: Episode Two Gameplay Movie 4"
-				},
-				{
-					"appid": 937,
-					"name": "Half-Life 2: Episode Two Gameplay Movie 5"
-				},
-				{
 					"appid": 938,
 					"name": "City Life Trailer"
 				},
@@ -597,10 +445,6 @@
 				{
 					"appid": 959,
 					"name": "Infernal Trailer 1"
-				},
-				{
-					"appid": 960,
-					"name": "Team Fortress 2: Meet the Heavy"
 				},
 				{
 					"appid": 961,
@@ -699,16 +543,8 @@
 					"name": "Bioshock Trailer"
 				},
 				{
-					"appid": 985,
-					"name": "Team Fortress 2: Meet The Soldier"
-				},
-				{
 					"appid": 986,
 					"name": "Race07 Trailer"
-				},
-				{
-					"appid": 987,
-					"name": "Team Fortress 2: Meet The Engineer"
 				},
 				{
 					"appid": 988,
@@ -731,20 +567,12 @@
 					"name": "Company of Heroes: Opposing Fronts"
 				},
 				{
-					"appid": 994,
-					"name": "Team Fortress 2: Meet the Heavy (Russian)"
-				},
-				{
 					"appid": 995,
 					"name": "The Orange Box Commercial"
 				},
 				{
 					"appid": 996,
 					"name": "Two Worlds Trailer"
-				},
-				{
-					"appid": 997,
-					"name": "Team Fortress 2: Meet the Demoman"
 				},
 				{
 					"appid": 998,
@@ -2075,14 +1903,6 @@
 					"name": "Frontline: Fuels of War Trailer"
 				},
 				{
-					"appid": 5015,
-					"name": "Team Fortress 2: Meet the Heavy (German)"
-				},
-				{
-					"appid": 5016,
-					"name": "Team Fortress 2: Meet the Heavy (French)"
-				},
-				{
 					"appid": 5017,
 					"name": "EVE Online: Coming Soon"
 				},
@@ -2137,26 +1957,6 @@
 				{
 					"appid": 5031,
 					"name": "TrackMania Nations Forever Trailer"
-				},
-				{
-					"appid": 5032,
-					"name": "Team Fortress 2: Meet the Scout"
-				},
-				{
-					"appid": 5033,
-					"name": "Team Fortress 2: Meet the Scout (French)"
-				},
-				{
-					"appid": 5034,
-					"name": "Team Fortress 2: Meet the Scout (German)"
-				},
-				{
-					"appid": 5035,
-					"name": "Team Fortress 2: Meet the Scout (Russian)"
-				},
-				{
-					"appid": 5036,
-					"name": "Team Fortress 2: Meet the Scout (Spanish)"
 				},
 				{
 					"appid": 5037,
@@ -2215,10 +2015,6 @@
 					"name": "Tom Clancy's HAWX Trailer"
 				},
 				{
-					"appid": 5051,
-					"name": "Team Fortress 2: Meet the Sniper"
-				},
-				{
 					"appid": 5052,
 					"name": "Far Cry 2 Trailer"
 				},
@@ -2235,36 +2031,12 @@
 					"name": "Brothers in Arms: Hells Highway Trailer 2"
 				},
 				{
-					"appid": 5056,
-					"name": "Team Fortress 2: Meet the Sniper (French)"
-				},
-				{
-					"appid": 5057,
-					"name": "Team Fortress 2: Meet the Sniper (German)"
-				},
-				{
-					"appid": 5058,
-					"name": "Team Fortress 2: Meet the Soldier (French)"
-				},
-				{
-					"appid": 5059,
-					"name": "Team Fortress 2: Meet the Soldier (German)"
-				},
-				{
 					"appid": 5060,
 					"name": "S.T.A.L.K.E.R.: Clear Sky Atmosphere Trailer"
 				},
 				{
 					"appid": 5061,
 					"name": "EVE Online - Empyrean Age Trailer"
-				},
-				{
-					"appid": 5062,
-					"name": "Team Fortress 2: Meet the Sniper (Russian)"
-				},
-				{
-					"appid": 5063,
-					"name": "Team Fortress 2: Meet the Sniper (Spanish)"
 				},
 				{
 					"appid": 5064,
@@ -2297,10 +2069,6 @@
 				{
 					"appid": 5072,
 					"name": "Dawn of War II: Teaser"
-				},
-				{
-					"appid": 5073,
-					"name": "Team Fortress 2: Meet the Sandvich"
 				},
 				{
 					"appid": 5074,
@@ -2365,14 +2133,6 @@
 				{
 					"appid": 5089,
 					"name": "The Witcher: Enhanced Trailer"
-				},
-				{
-					"appid": 5090,
-					"name": "Team Fortress 2: Meet the Solider (Russian)"
-				},
-				{
-					"appid": 5091,
-					"name": "Team Fortress 2: Meet the Demoman (Russian)"
 				},
 				{
 					"appid": 5092,
@@ -2449,10 +2209,6 @@
 				{
 					"appid": 5111,
 					"name": "Galactic Bowling Trailer"
-				},
-				{
-					"appid": 5112,
-					"name": "Team Fortress 2: Meet the Engineer (Russian)"
 				},
 				{
 					"appid": 5113,
@@ -2975,18 +2731,6 @@
 					"name": "The Path Story Trailer"
 				},
 				{
-					"appid": 5253,
-					"name": "Call of Duty: World at War - Map Pack"
-				},
-				{
-					"appid": 5254,
-					"name": "Call of Duty: World at War - Verruckt"
-				},
-				{
-					"appid": 5255,
-					"name": "Call of Duty: World at War - Zombies"
-				},
-				{
 					"appid": 5256,
 					"name": "Damnation Steampunk Trailer"
 				},
@@ -3001,10 +2745,6 @@
 				{
 					"appid": 5259,
 					"name": "Red Faction: Guerrilla Tactics Trailer"
-				},
-				{
-					"appid": 5260,
-					"name": "Team Fortress 2: Meet the Spy"
 				},
 				{
 					"appid": 5261,
@@ -3173,10 +2913,6 @@
 				{
 					"appid": 5304,
 					"name": "Droplitz Trailer"
-				},
-				{
-					"appid": 5305,
-					"name": "Team Fortress 2: Meet the Spy (Russian)"
 				},
 				{
 					"appid": 5306,
@@ -14159,22 +13895,6 @@
 					"name": "Call of Duty: Modern Warfare 3 - Multiplayer"
 				},
 				{
-					"appid": 42695,
-					"name": "Call of Duty: Modern Warfare 3 - Collection 1"
-				},
-				{
-					"appid": 42696,
-					"name": "Call of Duty: Modern Warfare 3 - DLC2"
-				},
-				{
-					"appid": 42697,
-					"name": "Call of Duty: Modern Warfare 3 - DLC3"
-				},
-				{
-					"appid": 42698,
-					"name": "Call of Duty®: Modern Warfare® 3 Collection 4: Final Assault"
-				},
-				{
 					"appid": 42699,
 					"name": "Call of Duty: Modern Warfare 3"
 				},
@@ -14187,48 +13907,8 @@
 					"name": "Call of Duty: Black Ops - Multiplayer"
 				},
 				{
-					"appid": 42715,
-					"name": "Call of Duty: Black Ops - First Strike MP DLC"
-				},
-				{
-					"appid": 42716,
-					"name": "Call of Duty: Black Ops - First Strike DLC"
-				},
-				{
-					"appid": 42717,
-					"name": "Call of Duty: Black Ops - Escalation DLC"
-				},
-				{
-					"appid": 42718,
-					"name": "Call of Duty: Black Ops - Escalation SP DLC"
-				},
-				{
-					"appid": 42719,
-					"name": "Call of Duty: Black Ops Rezurrection DLC"
-				},
-				{
-					"appid": 42720,
-					"name": "Call of Duty Black Ops - Remote Console"
-				},
-				{
-					"appid": 42722,
-					"name": "Call of Duty: Black Ops - Annihilation DLC"
-				},
-				{
-					"appid": 42723,
-					"name": "Call of Duty: Black Ops - Annihilation SP DLC"
-				},
-				{
-					"appid": 42729,
-					"name": "Call of Duty: Modern Warfare Collection #1 (Preorder) DLC"
-				},
-				{
 					"appid": 42730,
 					"name": "James Bond: Blood Stone"
-				},
-				{
-					"appid": 42740,
-					"name": "Call of Duty Black Ops - Mod Tools (BETA)"
 				},
 				{
 					"appid": 42749,
@@ -19715,22 +19395,6 @@
 					"name": "Call of Duty - Black Ops Firsk Strike Trailer"
 				},
 				{
-					"appid": 80739,
-					"name": "Portal 2 - Panels Short (English)"
-				},
-				{
-					"appid": 80740,
-					"name": "Portal 2 - Panels Short (French)"
-				},
-				{
-					"appid": 80741,
-					"name": "Portal 2 - Panels Short (german)"
-				},
-				{
-					"appid": 80742,
-					"name": "Portal 2 - Panels Short (Russian)"
-				},
-				{
 					"appid": 80745,
 					"name": "Dirt 3 Teaser Trailer ESRB"
 				},
@@ -19759,22 +19423,6 @@
 					"name": "Kick It"
 				},
 				{
-					"appid": 80752,
-					"name": "Portal 2 Turrets"
-				},
-				{
-					"appid": 80753,
-					"name": "Portal 2 Turrets (German)"
-				},
-				{
-					"appid": 80754,
-					"name": "Portal 2 Turrets (Russian)"
-				},
-				{
-					"appid": 80755,
-					"name": "Portal 2 Turrets (French)"
-				},
-				{
 					"appid": 80756,
 					"name": "Anomaly Warzone Earth Trailer"
 				},
@@ -19797,22 +19445,6 @@
 				{
 					"appid": 80761,
 					"name": "Magicka Vietnam Release Trailer"
-				},
-				{
-					"appid": 80762,
-					"name": "Portal 2 - Boots Short (English)"
-				},
-				{
-					"appid": 80763,
-					"name": "Portal 2 - Boots Short (French)"
-				},
-				{
-					"appid": 80764,
-					"name": "Portal 2 - Boots Short (German)"
-				},
-				{
-					"appid": 80765,
-					"name": "Portal 2 - Boots Short (Russian)"
 				},
 				{
 					"appid": 80766,
@@ -20409,10 +20041,6 @@
 				{
 					"appid": 80922,
 					"name": "Supreme Ruler 2020 Gold Trailer"
-				},
-				{
-					"appid": 80923,
-					"name": "Team Fortress 2: Meet the Medic"
 				},
 				{
 					"appid": 80924,
@@ -22723,10 +22351,6 @@
 					"name": "Sleeping Dogs Live Trailer"
 				},
 				{
-					"appid": 81510,
-					"name": "Shoot Many Robots Meet the Enemies Trailer"
-				},
-				{
 					"appid": 81511,
 					"name": "Shoot Many Robots Customize Trailer"
 				},
@@ -23391,34 +23015,6 @@
 					"name": "Swords and Soldiers Sausage DLC Trailer"
 				},
 				{
-					"appid": 81683,
-					"name": "Metro Last Light Short Film US"
-				},
-				{
-					"appid": 81684,
-					"name": "Metro Last Light Short Film France"
-				},
-				{
-					"appid": 81685,
-					"name": "Metro Last Light Short Film Benelux"
-				},
-				{
-					"appid": 81686,
-					"name": "Metro Last Light Short Film Spain"
-				},
-				{
-					"appid": 81687,
-					"name": "Metro Last Light Short Film United Kingdom"
-				},
-				{
-					"appid": 81688,
-					"name": "Metro Last Light Short Film Germany"
-				},
-				{
-					"appid": 81689,
-					"name": "Metro Last Light Short Film Australia"
-				},
-				{
 					"appid": 81690,
 					"name": "Red Orchestra 2 GOTY Trailer"
 				},
@@ -23851,16 +23447,8 @@
 					"name": "Saints Row The Third Witches and Wieners Trailer"
 				},
 				{
-					"appid": 81798,
-					"name": "Meet the Pyro"
-				},
-				{
 					"appid": 81799,
 					"name": "LEGO Batman 2 Trailer 2 ESRB"
-				},
-				{
-					"appid": 81800,
-					"name": "Team Fortress 2: Meet the Pyro"
 				},
 				{
 					"appid": 81801,
@@ -24471,24 +24059,12 @@
 					"name": "Darksiders II Combat Trailer"
 				},
 				{
-					"appid": 81954,
-					"name": "CS GO_Trailer_Short"
-				},
-				{
-					"appid": 81955,
-					"name": "CS GO_Trailer_Full"
-				},
-				{
 					"appid": 81956,
 					"name": "Thirty Flights of Loving Trailer"
 				},
 				{
 					"appid": 81957,
 					"name": "Dins Curse Trailer"
-				},
-				{
-					"appid": 81958,
-					"name": "CS GO_Trailer_Short_NR"
 				},
 				{
 					"appid": 81959,
@@ -24613,10 +24189,6 @@
 				{
 					"appid": 81989,
 					"name": "CS GO_Trailer_Making_Of"
-				},
-				{
-					"appid": 81990,
-					"name": "CS GO_Trailer_Short_NR1"
 				},
 				{
 					"appid": 81991,
@@ -28499,66 +28071,6 @@
 					"name": "Awesomenauts Soundtrack DLC"
 				},
 				{
-					"appid": 204304,
-					"name": "Awesomenauts - Coco Hawaii Skin"
-				},
-				{
-					"appid": 204305,
-					"name": "Awesomenauts - Mousquetaire Leon Skin"
-				},
-				{
-					"appid": 204306,
-					"name": "Awesomenauts - Officer Lonestar Skin"
-				},
-				{
-					"appid": 204307,
-					"name": "Awesomenauts - Grandmaster Splash Skin"
-				},
-				{
-					"appid": 204308,
-					"name": "Awesomenauts - Hot Rod Derpl Skin"
-				},
-				{
-					"appid": 204309,
-					"name": "Awesomenauts - Kosmonaut Yuri Skin"
-				},
-				{
-					"appid": 204310,
-					"name": "Awesomenauts - Bumble Gnaw Skin"
-				},
-				{
-					"appid": 204311,
-					"name": "Awesomenauts - Disco Voltar Skin"
-				},
-				{
-					"appid": 204312,
-					"name": "Awesomenauts - Expendable Clunk Skin "
-				},
-				{
-					"appid": 204313,
-					"name": "Awesomenauts - Honeydew Skølldir"
-				},
-				{
-					"appid": 204314,
-					"name": "Awesomenauts - Ravishing Raelynn"
-				},
-				{
-					"appid": 204315,
-					"name": "Awesomenauts - Private Mels"
-				},
-				{
-					"appid": 204317,
-					"name": "Awesomenauts - Cap'n Vinnie & Seadog Spike"
-				},
-				{
-					"appid": 204318,
-					"name": "Awesomenauts - Pimpy G Skin"
-				},
-				{
-					"appid": 204319,
-					"name": "Awesomenauts - Double-O Yuri Skin"
-				},
-				{
 					"appid": 204340,
 					"name": "Serious Sam 2"
 				},
@@ -28577,42 +28089,6 @@
 				{
 					"appid": 204372,
 					"name": "Castle Crashers - Blacksmith Pack"
-				},
-				{
-					"appid": 204380,
-					"name": "Dungeon Defenders - Etherian Holiday Extravaganza"
-				},
-				{
-					"appid": 204381,
-					"name": "Dungeon Defenders - Quest for the Lost Eternia Shards Part 1"
-				},
-				{
-					"appid": 204382,
-					"name": "Dungeon Defenders - Quest for the Lost Eternia Shards Part 2"
-				},
-				{
-					"appid": 204383,
-					"name": "Dungeon Defenders - Quest for the Lost Eternia Shards Part 3"
-				},
-				{
-					"appid": 204384,
-					"name": "Dungeon Defenders  - Quest for the Lost Eternia Shards Part 4"
-				},
-				{
-					"appid": 204385,
-					"name": "Dungeon Defenders: Assault Mission Pack"
-				},
-				{
-					"appid": 204386,
-					"name": "Dungeon Defenders: Barbarian Hero DLC"
-				},
-				{
-					"appid": 204387,
-					"name": "Dungeon Defenders: Etherian Festival of Love"
-				},
-				{
-					"appid": 204388,
-					"name": "Dungeon Defenders - President's Day Surprise "
 				},
 				{
 					"appid": 204390,
@@ -29029,374 +28505,6 @@
 				{
 					"appid": 206086,
 					"name": "Rocksmith - Guitar Bundle Collectors Pack"
-				},
-				{
-					"appid": 206088,
-					"name": "Rocksmith - Heavy Metal - Gear Pack"
-				},
-				{
-					"appid": 206089,
-					"name": "Rocksmith - Tone Designer Time Saver Pack"
-				},
-				{
-					"appid": 206090,
-					"name": "Rocksmith™ - “Tighten Up” - The Black Keys"
-				},
-				{
-					"appid": 206091,
-					"name": "Rocksmith™ - “Bodysnatchers” - Radiohead"
-				},
-				{
-					"appid": 206092,
-					"name": "Rocksmith™ - “Free Bird” - Lynyrd Skynyrd"
-				},
-				{
-					"appid": 206093,
-					"name": "Rocksmith™ - “More Than a Feeling” - Boston"
-				},
-				{
-					"appid": 206094,
-					"name": "Rocksmith™ - “Jessica” - The Allman Brothers Band"
-				},
-				{
-					"appid": 206095,
-					"name": "Rocksmith™ - “Smoke on the Water” - Deep Purple"
-				},
-				{
-					"appid": 206096,
-					"name": "Rocksmith™ - “20th Century Boy” - T. Rex"
-				},
-				{
-					"appid": 206097,
-					"name": "Rocksmith™ - “I Hate Everything About You” - Three Days Grace"
-				},
-				{
-					"appid": 206098,
-					"name": "Rocksmith™ - “Cousins” - Vampire Weekend"
-				},
-				{
-					"appid": 206099,
-					"name": "Rocksmith™ - “Symphony of Destruction” - Megadeth"
-				},
-				{
-					"appid": 206100,
-					"name": "Rocksmith™ - “Hangar 18” - Megadeth"
-				},
-				{
-					"appid": 206101,
-					"name": "Rocksmith™ - “Public Enemy No. 1” - Megadeth"
-				},
-				{
-					"appid": 206102,
-					"name": "Rocksmith™ - Megadeth 3-Song Pack"
-				},
-				{
-					"appid": 206103,
-					"name": "Rocksmith - 2011 Holiday Song Pack"
-				},
-				{
-					"appid": 206104,
-					"name": "Rocksmith™ - “Gold on the Ceiling” - The Black Keys"
-				},
-				{
-					"appid": 206105,
-					"name": "Rocksmith™ - “Mind Eraser” - The Black Keys"
-				},
-				{
-					"appid": 206106,
-					"name": "Rocksmith™ - “Just Got to Be” - The Black Keys"
-				},
-				{
-					"appid": 206107,
-					"name": "Rocksmith™ - The Black Keys 3-Song Pack"
-				},
-				{
-					"appid": 206108,
-					"name": "Rocksmith™ - “(Don’t Fear) The Reaper” - Blue Öyster Cult"
-				},
-				{
-					"appid": 206109,
-					"name": "Rocksmith™ - “Barracuda” - Heart"
-				},
-				{
-					"appid": 206110,
-					"name": "Rocksmith™ - “Space Oddity” - David Bowie"
-				},
-				{
-					"appid": 206111,
-					"name": "Rocksmith™ - “Black” - Pearl Jam"
-				},
-				{
-					"appid": 206112,
-					"name": "Rocksmith™ - “Jeremy” - Pearl Jam"
-				},
-				{
-					"appid": 206113,
-					"name": "Rocksmith™ - “Dammit” - blink-182"
-				},
-				{
-					"appid": 206114,
-					"name": "Rocksmith™ - “All the Small Things” - blink-182"
-				},
-				{
-					"appid": 206115,
-					"name": "Rocksmith™ - “What’s My Age Again?” - blink-182"
-				},
-				{
-					"appid": 206116,
-					"name": "Rocksmith™ - blink-182 3-Song Pack"
-				},
-				{
-					"appid": 206117,
-					"name": "Rocksmith™ - “When I’m Gone” - 3 Doors Down"
-				},
-				{
-					"appid": 206118,
-					"name": "Rocksmith™ - “Kryptonite” - 3 Doors Down"
-				},
-				{
-					"appid": 206119,
-					"name": "Rocksmith™ - “Loser” - 3 Doors Down"
-				},
-				{
-					"appid": 206120,
-					"name": "Rocksmith™ - 3 Doors Down 3-Song Pack"
-				},
-				{
-					"appid": 206121,
-					"name": "Rocksmith™ - “The Thrill is Gone” - B.B. King"
-				},
-				{
-					"appid": 206122,
-					"name": "Rocksmith™ - “Soul Man” - The Blues Brothers"
-				},
-				{
-					"appid": 206123,
-					"name": "Rocksmith™ - “Born Under a Bad Sign” - Albert King with Stevie Ray Vaughan"
-				},
-				{
-					"appid": 206124,
-					"name": "Rocksmith™ - “Pumped Up Kicks” - Foster The People"
-				},
-				{
-					"appid": 206125,
-					"name": "Rocksmith™ - “Bring Me to Life” - Evanescence"
-				},
-				{
-					"appid": 206126,
-					"name": "Rocksmith™ - “This Love” - Maroon 5"
-				},
-				{
-					"appid": 206127,
-					"name": "Rocksmith™ - “Breaking the Law” - Judas Priest"
-				},
-				{
-					"appid": 206128,
-					"name": "Rocksmith™ - “Living After Midnight” - Judas Priest"
-				},
-				{
-					"appid": 206129,
-					"name": "Rocksmith™ - “Painkiller” - Judas Priest"
-				},
-				{
-					"appid": 206130,
-					"name": "Rocksmith™ - Judas Priest Song Pack"
-				},
-				{
-					"appid": 206131,
-					"name": "Rocksmith™ - “Roxanne” - The Police"
-				},
-				{
-					"appid": 206132,
-					"name": "Rocksmith™ - “Message in a Bottle” - The Police"
-				},
-				{
-					"appid": 206133,
-					"name": "Rocksmith™ - “Synchronicity II” - The Police"
-				},
-				{
-					"appid": 206134,
-					"name": "Rocksmith™ - The Police Song Pack"
-				},
-				{
-					"appid": 206135,
-					"name": "Rocksmith™ - “Self Esteem” - The Offspring"
-				},
-				{
-					"appid": 206136,
-					"name": "Rocksmith™ - “Gone Away” - The Offspring"
-				},
-				{
-					"appid": 206137,
-					"name": "Rocksmith™ - “Come Out and Play (Keep ‘em Separated)” - The Offspring"
-				},
-				{
-					"appid": 206138,
-					"name": "Rocksmith™ - The Offspring Song Pack"
-				},
-				{
-					"appid": 206139,
-					"name": "Rocksmith™ - “Welcome to the Black Parade” - My Chemical Romance"
-				},
-				{
-					"appid": 206140,
-					"name": "Rocksmith™ - “Na Na Na (Na Na Na Na Na Na Na Na Na)” - My Chemical Romance"
-				},
-				{
-					"appid": 206141,
-					"name": "Rocksmith™ - “Planetary (GO!)” - My Chemical Romance"
-				},
-				{
-					"appid": 206142,
-					"name": "Rocksmith™ - My Chemical Romance Song Pack"
-				},
-				{
-					"appid": 206143,
-					"name": "Rocksmith™ - “Bohemian Rhapsody” - Queen"
-				},
-				{
-					"appid": 206144,
-					"name": "Rocksmith™ - “Stone Cold Crazy” - Queen"
-				},
-				{
-					"appid": 206145,
-					"name": "Rocksmith™ - “Fat Bottomed Girls” - Queen"
-				},
-				{
-					"appid": 206146,
-					"name": "Rocksmith™ - “Keep Yourself Alive” - Queen"
-				},
-				{
-					"appid": 206147,
-					"name": "Rocksmith™ - “Killer Queen” - Queen"
-				},
-				{
-					"appid": 206148,
-					"name": "Rocksmith™ - Queen Song Pack"
-				},
-				{
-					"appid": 206149,
-					"name": "Rocksmith™ - “Godzilla” - Blue Öyster Cult"
-				},
-				{
-					"appid": 206150,
-					"name": "Rocksmith™ - “Hit Me With Your Best Shot” - Pat Benatar"
-				},
-				{
-					"appid": 206151,
-					"name": "Rocksmith™ - “My Sharona” - The Knack"
-				},
-				{
-					"appid": 206152,
-					"name": "Rocksmith™ - “Paralyzer” - Finger Eleven"
-				},
-				{
-					"appid": 206153,
-					"name": "Rocksmith™ - “Redneck” - Lamb of God"
-				},
-				{
-					"appid": 206154,
-					"name": "Rocksmith™ - “I Believe in a Thing Called Love” - The Darkness"
-				},
-				{
-					"appid": 206155,
-					"name": "Rocksmith™ - “My Girl” - The Temptations"
-				},
-				{
-					"appid": 206156,
-					"name": "Rocksmith™ - “What’s Going On” - Marvin Gaye"
-				},
-				{
-					"appid": 206157,
-					"name": "Rocksmith™ - “(Sittin’ On) The Dock of the Bay” - Otis Redding"
-				},
-				{
-					"appid": 206158,
-					"name": "Rocksmith™ - “Born on the Bayou” - Creedence Clearwater Revival"
-				},
-				{
-					"appid": 206159,
-					"name": "Rocksmith™ - “In-A-Gadda-Da-Vida” - Iron Butterfly"
-				},
-				{
-					"appid": 206160,
-					"name": "Rocksmith™ - “Whipping Post” - The Allman Brothers Band"
-				},
-				{
-					"appid": 206161,
-					"name": "Rocksmith™ - “Drift Away” - Dobie Gray"
-				},
-				{
-					"appid": 206162,
-					"name": "Rocksmith™ - “The Man Who Sold the World” - David Bowie"
-				},
-				{
-					"appid": 206163,
-					"name": "Rocksmith™ - “Mississippi Queen” - Mountain"
-				},
-				{
-					"appid": 206164,
-					"name": "Rocksmith™ - “We’re Not Gonna Take It” - Twisted Sister"
-				},
-				{
-					"appid": 206165,
-					"name": "Rocksmith™ - “Is This Love” - Whitesnake"
-				},
-				{
-					"appid": 206166,
-					"name": "Rocksmith™ - “The Final Countdown” - Europe"
-				},
-				{
-					"appid": 206167,
-					"name": "Rocksmith™ - “Bright Lights” - Gary Clark Jr."
-				},
-				{
-					"appid": 206168,
-					"name": "Rocksmith™ - “Paris (Ooh La La)” - Grace Potter & The Nocturnals"
-				},
-				{
-					"appid": 206169,
-					"name": "Rocksmith™ - “Caring is Creepy” - The Shins"
-				},
-				{
-					"appid": 206170,
-					"name": "Rocksmith™ - Unlock All Guitarcade Minigames"
-				},
-				{
-					"appid": 206171,
-					"name": "Rocksmith™ - Unlock All Guitars and Basses"
-				},
-				{
-					"appid": 206172,
-					"name": "Rocksmith™ - Unlock All Bonus Songs"
-				},
-				{
-					"appid": 206173,
-					"name": "Rocksmith™ - Unlock All Venues"
-				},
-				{
-					"appid": 206174,
-					"name": "Rocksmith™ - “Beast and the Harlot” - Avenged Sevenfold"
-				},
-				{
-					"appid": 206175,
-					"name": "Rocksmith™ - “Afterlife” - Avenged Sevenfold"
-				},
-				{
-					"appid": 206176,
-					"name": "Rocksmith™ - “Nightmare” - Avenged Sevenfold"
-				},
-				{
-					"appid": 206177,
-					"name": "Rocksmith™ - Avenged Sevenfold Song Pack"
-				},
-				{
-					"appid": 206178,
-					"name": "Rocksmith™ - “Tom Sawyer” - Rush"
-				},
-				{
-					"appid": 206179,
-					"name": "Rocksmith™ - “Limelight” - Rush"
 				},
 				{
 					"appid": 206180,
@@ -31029,50 +30137,6 @@
 				{
 					"appid": 209950,
 					"name": "Triple Town"
-				},
-				{
-					"appid": 210011,
-					"name": "Resident Evil: Operation Raccoon City - Free Echo Six Prologue Mission"
-				},
-				{
-					"appid": 210012,
-					"name": "Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 1"
-				},
-				{
-					"appid": 210013,
-					"name": "Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 2"
-				},
-				{
-					"appid": 210014,
-					"name": "Resident Evil: Operation Raccoon City - USS Wolfpack Uniforms"
-				},
-				{
-					"appid": 210015,
-					"name": "Resident Evil: Operation Raccoon City - Power Weapons"
-				},
-				{
-					"appid": 210016,
-					"name": "Resident Evil: Operation Raccoon City - Renegade Weapons"
-				},
-				{
-					"appid": 210017,
-					"name": "Resident Evil: Operation Raccoon City - Elite Weapons"
-				},
-				{
-					"appid": 210018,
-					"name": "Resident Evil: Operation Raccoon City - Classic Weapons"
-				},
-				{
-					"appid": 210019,
-					"name": "Resident Evil: Operation Raccoon City - Weapon stash + Wolfpack Uniforms"
-				},
-				{
-					"appid": 210030,
-					"name": "Street Fighter X Tekken DLC - Ryu (Swap Costume)"
-				},
-				{
-					"appid": 210031,
-					"name": "Street Fighter X Tekken DLC - Ken (Swap Costume)"
 				},
 				{
 					"appid": 210032,
@@ -34095,82 +33159,6 @@
 					"name": "Miner Wars Arena "
 				},
 				{
-					"appid": 219091,
-					"name": "Call of Duty: Black Ops II - Nuketown 2025"
-				},
-				{
-					"appid": 219092,
-					"name": "Call of Duty: Black Ops II - Zombies - Nuketown Zombies"
-				},
-				{
-					"appid": 219093,
-					"name": "Call of Duty: Black Ops II - Digital Deluxe Content"
-				},
-				{
-					"appid": 219094,
-					"name": "Call of Duty: Black Ops II - Soundtrack"
-				},
-				{
-					"appid": 219095,
-					"name": "Call of Duty: Black Ops II - Season Pass Content"
-				},
-				{
-					"appid": 219096,
-					"name": "Call of Duty: Black Ops II - Revolution Map Pack #1 Zombies"
-				},
-				{
-					"appid": 219097,
-					"name": "Call of Duty®: Black Ops II Revolution"
-				},
-				{
-					"appid": 219098,
-					"name": "Call of Duty®: Black Ops II - Uprising"
-				},
-				{
-					"appid": 219099,
-					"name": "Call of Duty: Black Ops II - Zombies - Uprising DLC"
-				},
-				{
-					"appid": 219101,
-					"name": "Call of Duty®: Black Ops II - Vengeance"
-				},
-				{
-					"appid": 219102,
-					"name": "Call of Duty: Black Ops II - Vengeance Zombies"
-				},
-				{
-					"appid": 219103,
-					"name": "Call of Duty: Black Ops II - Apocalypse"
-				},
-				{
-					"appid": 219104,
-					"name": "Call of Duty: Black Ops II - Apocalypse Zombies"
-				},
-				{
-					"appid": 219130,
-					"name": "Painkiller Hell & Damnation Collector's Edition DLC 1"
-				},
-				{
-					"appid": 219131,
-					"name": "Painkiller Hell & Damnation Collector's Edition DLC 2"
-				},
-				{
-					"appid": 219133,
-					"name": "Painkiller Hell & Damnation DLC Preorder 1"
-				},
-				{
-					"appid": 219134,
-					"name": "Painkiller Hell & Damnation Digital Extras"
-				},
-				{
-					"appid": 219135,
-					"name": "Painkiller Hell & Damnation: Halloween DLC"
-				},
-				{
-					"appid": 219136,
-					"name": "Painkiller Hell & Damnation: Satan Claus DLC"
-				},
-				{
 					"appid": 219150,
 					"name": "Hotline Miami"
 				},
@@ -34785,346 +33773,6 @@
 				{
 					"appid": 222021,
 					"name": "Sniper Elite V2 - Saint Pierre"
-				},
-				{
-					"appid": 222041,
-					"name": "Rocksmith™ - “YYZ” - Rush"
-				},
-				{
-					"appid": 222042,
-					"name": "Rocksmith™ - “Red Barchetta” - Rush"
-				},
-				{
-					"appid": 222043,
-					"name": "Rocksmith™ - “Subdivisions” - Rush"
-				},
-				{
-					"appid": 222044,
-					"name": "Rocksmith™ - Rush Song Pack"
-				},
-				{
-					"appid": 222045,
-					"name": "Rocksmith™ - Metal and Hard Rock Pack (12 Songs)"
-				},
-				{
-					"appid": 222046,
-					"name": "Rocksmith™ - Rock Pack (15 Songs)"
-				},
-				{
-					"appid": 222047,
-					"name": "Rocksmith - Alternative Collectors Bundle"
-				},
-				{
-					"appid": 222048,
-					"name": "Rocksmith™ - Classic Guitar Pack (15 Songs)"
-				},
-				{
-					"appid": 222049,
-					"name": "Rocksmith™ - Classic Hits Pack (12 Songs)"
-				},
-				{
-					"appid": 222050,
-					"name": "Rocksmith™ - “Give Up the Funk (Tear the Roof Off the Sucker)” - Parliament"
-				},
-				{
-					"appid": 222051,
-					"name": "Rocksmith™ - “Super Freak” - Rick James"
-				},
-				{
-					"appid": 222052,
-					"name": "Rocksmith™ - “Good Times” - Chic"
-				},
-				{
-					"appid": 222053,
-					"name": "Rocksmith™ - “Headlong Flight” - Rush"
-				},
-				{
-					"appid": 222054,
-					"name": "Rocksmith™ - “Cowboys From Hell” - Pantera"
-				},
-				{
-					"appid": 222055,
-					"name": "Rocksmith™ - “Domination” - Pantera"
-				},
-				{
-					"appid": 222056,
-					"name": "Rocksmith™ - “Walk” - Pantera"
-				},
-				{
-					"appid": 222057,
-					"name": "Rocksmith™ - Pantera Song Pack"
-				},
-				{
-					"appid": 222058,
-					"name": "Rocksmith™ - “How You Remind Me” - Nickelback"
-				},
-				{
-					"appid": 222059,
-					"name": "Rocksmith™ - “Rockstar” - Nickelback"
-				},
-				{
-					"appid": 222060,
-					"name": "Rocksmith™ - “Bottoms Up” - Nickelback"
-				},
-				{
-					"appid": 222061,
-					"name": "Rocksmith™ - Nickelback Song Pack"
-				},
-				{
-					"appid": 222062,
-					"name": "Rocksmith™ - “Walk” - Foo Fighters"
-				},
-				{
-					"appid": 222063,
-					"name": "Rocksmith™ - “My Hero” - Foo Fighters"
-				},
-				{
-					"appid": 222064,
-					"name": "Rocksmith™ - “Best of You” - Foo Fighters"
-				},
-				{
-					"appid": 222065,
-					"name": "Rocksmith™ - “Times Like These” - Foo Fighters"
-				},
-				{
-					"appid": 222066,
-					"name": "Rocksmith™ - “Wheels” - Foo Fighters"
-				},
-				{
-					"appid": 222067,
-					"name": "Rocksmith™ - Foo Fighters Song Pack"
-				},
-				{
-					"appid": 222068,
-					"name": "Rocksmith™ - Ultimate Time Saver Bundle"
-				},
-				{
-					"appid": 222069,
-					"name": "Rocksmith™ - “Oye Como Va” - Santana"
-				},
-				{
-					"appid": 222070,
-					"name": "Rocksmith™ - “Black Magic Woman” - Santana"
-				},
-				{
-					"appid": 222071,
-					"name": "Rocksmith™ - “Smooth” - Santana feat. Rob Thomas"
-				},
-				{
-					"appid": 222072,
-					"name": "Rocksmith™ - Santana Song Pack"
-				},
-				{
-					"appid": 222073,
-					"name": "Rocksmith™ - “Cliffs of Dover” - Eric Johnson"
-				},
-				{
-					"appid": 222074,
-					"name": "Rocksmith™ - “Alive” - Pearl Jam"
-				},
-				{
-					"appid": 222075,
-					"name": "Rocksmith™ - “No Rain” - Blind Melon"
-				},
-				{
-					"appid": 222076,
-					"name": "Rocksmith™ - “Reptilia” - The Strokes"
-				},
-				{
-					"appid": 222077,
-					"name": "Rocksmith™ - “Last Nite” - The Strokes"
-				},
-				{
-					"appid": 222078,
-					"name": "Rocksmith™ - “Juicebox” - The Strokes"
-				},
-				{
-					"appid": 222079,
-					"name": "Rocksmith™ - The Strokes Song Pack"
-				},
-				{
-					"appid": 222080,
-					"name": "Rocksmith™ - “American Woman” - The Guess Who"
-				},
-				{
-					"appid": 222081,
-					"name": "Rocksmith™ - “Born to be Wild” - Steppenwolf"
-				},
-				{
-					"appid": 222082,
-					"name": "Rocksmith™ - “Surrender” - Cheap Trick"
-				},
-				{
-					"appid": 222083,
-					"name": "Rocksmith™ - “Sugar, We’re Goin Down” - Fall Out Boy"
-				},
-				{
-					"appid": 222084,
-					"name": "Rocksmith™ - “Dance, Dance” - Fall Out Boy"
-				},
-				{
-					"appid": 222085,
-					"name": "Rocksmith™ - “Thnks fr th Mmrs” - Fall Out Boy"
-				},
-				{
-					"appid": 222086,
-					"name": "Rocksmith™ - “I Don’t Care” - Fall Out Boy"
-				},
-				{
-					"appid": 222087,
-					"name": "Rocksmith™ - “America’s Suitehearts” - Fall Out Boy"
-				},
-				{
-					"appid": 222088,
-					"name": "Rocksmith™ - Fall Out Boy Song Pack"
-				},
-				{
-					"appid": 222089,
-					"name": "Rocksmith™ - “London Calling” - The Clash"
-				},
-				{
-					"appid": 222090,
-					"name": "Rocksmith™ - “Should I Stay or Should I Go” - The Clash"
-				},
-				{
-					"appid": 222091,
-					"name": "Rocksmith™ - “The Guns of Brixton” - The Clash"
-				},
-				{
-					"appid": 222092,
-					"name": "Rocksmith™ - The Clash Song Pack"
-				},
-				{
-					"appid": 222093,
-					"name": "Rocksmith™ - “Carry On Wayward Son” - Kansas"
-				},
-				{
-					"appid": 222094,
-					"name": "Rocksmith™ - “You’ve Got Another Thing Comin’” - Judas Priest"
-				},
-				{
-					"appid": 222095,
-					"name": "Rocksmith™ - “Black Betty” - Ram Jam"
-				},
-				{
-					"appid": 222096,
-					"name": "Rocksmith™ - “Wish You Were Here” - Incubus"
-				},
-				{
-					"appid": 222097,
-					"name": "Rocksmith™ - “Love Hurts” - Incubus"
-				},
-				{
-					"appid": 222098,
-					"name": "Rocksmith™ - “Anna Molly” - Incubus"
-				},
-				{
-					"appid": 222099,
-					"name": "Rocksmith™ - Incubus Song Pack"
-				},
-				{
-					"appid": 222100,
-					"name": "Rocksmith™ - “Burnin’ for You” - Blue Öyster Cult"
-				},
-				{
-					"appid": 222101,
-					"name": "Rocksmith™ - “Blister in the Sun” - Violent Femmes"
-				},
-				{
-					"appid": 222102,
-					"name": "Rocksmith™ - “Cult of Personality” - Living Colour"
-				},
-				{
-					"appid": 222103,
-					"name": "Rocksmith™ - “Lovesong” - The Cure"
-				},
-				{
-					"appid": 222104,
-					"name": "Rocksmith™ - “Just Like Heaven” - The Cure"
-				},
-				{
-					"appid": 222105,
-					"name": "Rocksmith™ - “The End of the World” - The Cure"
-				},
-				{
-					"appid": 222106,
-					"name": "Rocksmith™ - The Cure Song Pack"
-				},
-				{
-					"appid": 222107,
-					"name": "Rocksmith™ - “Have You Ever Seen the Rain?” - Creedence Clearwater Revival"
-				},
-				{
-					"appid": 222108,
-					"name": "Rocksmith™ - “Southbound” - The Allman Brothers Band"
-				},
-				{
-					"appid": 222109,
-					"name": "Rocksmith™ - “Ballroom Blitz” - Sweet"
-				},
-				{
-					"appid": 222110,
-					"name": "Rocksmith™ - “Float On” - Modest Mouse"
-				},
-				{
-					"appid": 222111,
-					"name": "Rocksmith™ - “The Good Left Undone” - Rise Against"
-				},
-				{
-					"appid": 222112,
-					"name": "Rocksmith™ - “Get Free” - The Vines"
-				},
-				{
-					"appid": 222113,
-					"name": "Rocksmith™ - “Eye of the Tiger” - Survivor"
-				},
-				{
-					"appid": 222114,
-					"name": "Rocksmith™ - “White Wedding - Part 1” - Billy Idol"
-				},
-				{
-					"appid": 222115,
-					"name": "Rocksmith™ - “Here Comes Your Man” - The Pixies"
-				},
-				{
-					"appid": 222116,
-					"name": "Rocksmith™ - “Misery” - Maroon 5"
-				},
-				{
-					"appid": 222117,
-					"name": "Rocksmith™ - “She Will Be Loved” - Maroon 5"
-				},
-				{
-					"appid": 222118,
-					"name": "Rocksmith™ - “Harder to Breathe” - Maroon 5"
-				},
-				{
-					"appid": 222119,
-					"name": "Rocksmith™ - Maroon 5 Song Pack"
-				},
-				{
-					"appid": 222120,
-					"name": "Rocksmith™ - “Jessie’s Girl” - Rick Springfield"
-				},
-				{
-					"appid": 222121,
-					"name": "Rocksmith™ - “867-5309/Jenny” - Tommy Tutone"
-				},
-				{
-					"appid": 222122,
-					"name": "Rocksmith™ - “Call Me” - Blondie"
-				},
-				{
-					"appid": 222137,
-					"name": "Rocksmith™ - The Allman Brothers Band Song Pack"
-				},
-				{
-					"appid": 222138,
-					"name": "Rocksmith™ - Blue Öyster Cult Song Pack"
-				},
-				{
-					"appid": 222139,
-					"name": "Rocksmith™ - Pearl Jam Song Pack"
 				},
 				{
 					"appid": 222140,
@@ -38239,106 +36887,6 @@
 					"name": "Tower Wars Editor"
 				},
 				{
-					"appid": 234770,
-					"name": "Call of Duty®: Black Ops II - Extra Slots Pack"
-				},
-				{
-					"appid": 234771,
-					"name": "Call of Duty®: Black Ops II - Party Rock MP Personalization Pack"
-				},
-				{
-					"appid": 234772,
-					"name": "Call of Duty®: Black Ops II - Kawaii MP Personalization Pack"
-				},
-				{
-					"appid": 234773,
-					"name": "Call of Duty®: Black Ops II - Graffiti MP Personalization Pack"
-				},
-				{
-					"appid": 234774,
-					"name": "Call of Duty®: Black Ops II Dia de los Muertos MP Personalization Pack"
-				},
-				{
-					"appid": 234775,
-					"name": "Call of Duty®: Black Ops II - Benjamins MP Personalization Pack"
-				},
-				{
-					"appid": 234776,
-					"name": "Call of Duty®: Black Ops II Bacon MP Personalization Pack"
-				},
-				{
-					"appid": 234777,
-					"name": "Call of Duty®: Black Ops II - Zombies MP Personalization Pack"
-				},
-				{
-					"appid": 234778,
-					"name": "Call of Duty®: Black Ops II - Viper MP Personalization Pack"
-				},
-				{
-					"appid": 234779,
-					"name": "Call of Duty®: Black Ops II - Jungle Warfare MP Personalization Pack"
-				},
-				{
-					"appid": 234780,
-					"name": "Call of Duty®: Black Ops II - North American Flags of the World Calling Card Pack"
-				},
-				{
-					"appid": 234781,
-					"name": "Call of Duty®: Black Ops II - South American Flags of the World Calling Card Pack"
-				},
-				{
-					"appid": 234782,
-					"name": "Call of Duty®: Black Ops II - European Flags of the World Calling Card Pack"
-				},
-				{
-					"appid": 234783,
-					"name": "Call of Duty®: Black Ops II - African Flags of the World Calling Card Pack"
-				},
-				{
-					"appid": 234784,
-					"name": "Call of Duty®: Black Ops II - Asian Flags of the World Calling Card Pack"
-				},
-				{
-					"appid": 234785,
-					"name": "Call of Duty: Black Ops II - Comics Pack"
-				},
-				{
-					"appid": 234786,
-					"name": "Call of Duty®: Black Ops II - Paladin Personalization Pack"
-				},
-				{
-					"appid": 234787,
-					"name": "Call of Duty: Black Ops II - Dragon Pack"
-				},
-				{
-					"appid": 234788,
-					"name": "Call of Duty®: Black Ops II - Cyborg Personalization Pack"
-				},
-				{
-					"appid": 234789,
-					"name": "Call of Duty: Black Ops II - Glam Pack"
-				},
-				{
-					"appid": 234790,
-					"name": "Call of Duty: Black Ops II - Coyote Pack"
-				},
-				{
-					"appid": 234791,
-					"name": "Call of Duty: Black Ops II - Pack-A-Punch Pack"
-				},
-				{
-					"appid": 234792,
-					"name": "Call of Duty: Black Ops II - Aqua Pack"
-				},
-				{
-					"appid": 234793,
-					"name": "Call of Duty: Black Ops II - Breach Pack"
-				},
-				{
-					"appid": 234794,
-					"name": "Call of Duty: Black Ops II - Rogue Pack"
-				},
-				{
 					"appid": 234820,
 					"name": "Driver Fusion Premium"
 				},
@@ -39209,10 +37757,6 @@
 				{
 					"appid": 239760,
 					"name": "Football Manager Classic 2014"
-				},
-				{
-					"appid": 239780,
-					"name": "Call of Duty Black Ops - OSX Remote Console"
 				},
 				{
 					"appid": 239800,
@@ -40803,38 +39347,6 @@
 					"name": "A Walk in the Dark"
 				},
 				{
-					"appid": 248750,
-					"name": "Rocksmith® 2014 - The Smashing Pumpkins  - “Cherub Rock”"
-				},
-				{
-					"appid": 248751,
-					"name": "Rocksmith® 2014 - Albert King  - “The Sky Is Crying”"
-				},
-				{
-					"appid": 248752,
-					"name": "Rocksmith® 2014 - Chicago  - “25 Or 6 To 4”"
-				},
-				{
-					"appid": 248753,
-					"name": "Rocksmith® 2014 - Tame Impala  - “Elephant”"
-				},
-				{
-					"appid": 248754,
-					"name": "Rocksmith® 2014 - The Lumineers  - “Ho Hey”"
-				},
-				{
-					"appid": 248755,
-					"name": "Rocksmith® 2014 - The Hives  - “Hate To Say I Told You So”"
-				},
-				{
-					"appid": 248756,
-					"name": "Rocksmith® 2014 - Them Crooked Vultures  - “Mind Eraser, No Chaser”"
-				},
-				{
-					"appid": 248757,
-					"name": "Rocksmith® 2014 - Queens Of The Stone Age  - “My God Is The Sun”"
-				},
-				{
 					"appid": 248800,
 					"name": "Dysfunctional Systems: Learning to Manage Chaos"
 				},
@@ -40861,118 +39373,6 @@
 				{
 					"appid": 249070,
 					"name": "Tom Clancy's Splinter Cell Blacklist Standard Edition"
-				},
-				{
-					"appid": 249081,
-					"name": "Company of Heroes 2 - Soviet Commander: Counterattack Tactics"
-				},
-				{
-					"appid": 249082,
-					"name": "Company of Heroes 2 - Soviet Commander: Industry Tactics"
-				},
-				{
-					"appid": 249083,
-					"name": "Company of Heroes 2 - Soviet Commander: Urban Defense Tactics"
-				},
-				{
-					"appid": 249085,
-					"name": "Company of Heroes 2 - German Commander: Mechanized Assault Doctrine"
-				},
-				{
-					"appid": 249086,
-					"name": "Company of Heroes 2 - German Commander: Osttruppen Doctrine"
-				},
-				{
-					"appid": 249087,
-					"name": "Company of Heroes 2 - German Commander: Luftwaffe Supply Doctrine"
-				},
-				{
-					"appid": 249088,
-					"name": "Company of Heroes 2 - German Commander: Elite Troops Doctrine"
-				},
-				{
-					"appid": 249090,
-					"name": "Company of Heroes 2 - Soviet Commander: Partisan Tactics"
-				},
-				{
-					"appid": 249092,
-					"name": "Company of Heroes 2 - Soviet Commander: Tank Hunter Tactics"
-				},
-				{
-					"appid": 249094,
-					"name": "Company of Heroes 2 - German Commander: Encirclement Doctrine"
-				},
-				{
-					"appid": 249100,
-					"name": "Company of Heroes 2 -  German Skin: (L) Voronezh Improvised Pattern"
-				},
-				{
-					"appid": 249101,
-					"name": "Company of Heroes 2 - German Skin: (M) Voronezh Improvised Pattern"
-				},
-				{
-					"appid": 249102,
-					"name": "Company of Heroes 2 - German Skin: (H) Voronezh Improvised Pattern"
-				},
-				{
-					"appid": 249103,
-					"name": "Company of Heroes 2 - German Skin: (L) Case Blue Summer Pattern"
-				},
-				{
-					"appid": 249104,
-					"name": "Company of Heroes 2 - German Skin: (M) Case Blue Summer Pattern"
-				},
-				{
-					"appid": 249105,
-					"name": "Company of Heroes 2 - German Skin: (H) Case Blue Summer Pattern"
-				},
-				{
-					"appid": 249106,
-					"name": "Company of Heroes 2 - German Skin: (L) Stalingrad Winter Pattern"
-				},
-				{
-					"appid": 249107,
-					"name": "Company of Heroes 2 - German Skin: (M) Stalingrad Winter Pattern"
-				},
-				{
-					"appid": 249108,
-					"name": "Company of Heroes 2 - German Skin: (H) Stalingrad Winter Pattern"
-				},
-				{
-					"appid": 249109,
-					"name": "Company of Heroes 2 - Soviet Skin: (L) Two Tone Don Front"
-				},
-				{
-					"appid": 249110,
-					"name": "Company of Heroes 2 - Soviet Skin: (M) Two Tone Don Front"
-				},
-				{
-					"appid": 249111,
-					"name": "Company of Heroes 2 - Soviet Skin: (H) Two Tone Don Front"
-				},
-				{
-					"appid": 249112,
-					"name": "Company of Heroes 2 - Soviet Skin: (L) Two Tone Spring Front"
-				},
-				{
-					"appid": 249113,
-					"name": "Company of Heroes 2 - Soviet Skin: (M) Two Tone Spring Front"
-				},
-				{
-					"appid": 249114,
-					"name": "Company of Heroes 2 - Soviet Skin: (H) Two Tone Spring Front"
-				},
-				{
-					"appid": 249115,
-					"name": "Company of Heroes 2 - Soviet Skin: (L) Makeshift Sand Southern Front"
-				},
-				{
-					"appid": 249116,
-					"name": "Company of Heroes 2 - Soviet Skin: (M) Makeshift Sand Southern Front"
-				},
-				{
-					"appid": 249117,
-					"name": "Company of Heroes 2 - Soviet Skin: (H) Makeshift Sand Southern Front"
 				},
 				{
 					"appid": 249121,
@@ -41975,46 +40375,6 @@
 					"name": "Winter Voices: Falls"
 				},
 				{
-					"appid": 255160,
-					"name": "Call of Duty: Ghosts - Season Pass"
-				},
-				{
-					"appid": 255161,
-					"name": "Call of Duty: Ghosts - Team Leader Pack"
-				},
-				{
-					"appid": 255162,
-					"name": "Call of Duty: Ghosts - Insignia Pack"
-				},
-				{
-					"appid": 255163,
-					"name": "Call of Duty: Ghosts - Digital Hardened Pack"
-				},
-				{
-					"appid": 255164,
-					"name": "Call of Duty: Ghosts - Free Fall"
-				},
-				{
-					"appid": 255165,
-					"name": "Call of Duty: Ghosts - Ghost Character"
-				},
-				{
-					"appid": 255166,
-					"name": "Call of Duty: Ghosts - The Watcher Patch"
-				},
-				{
-					"appid": 255167,
-					"name": "Call of Duty: Ghosts - Federation Patch"
-				},
-				{
-					"appid": 255168,
-					"name": "Call of Duty: Ghosts - No Man's Land Patch"
-				},
-				{
-					"appid": 255169,
-					"name": "Call of Duty: Ghosts - Into the Deep Patch"
-				},
-				{
 					"appid": 255190,
 					"name": "Rise of the Triad Ludicrous Development Kit"
 				},
@@ -42611,10 +40971,6 @@
 					"name": "99 Spirits"
 				},
 				{
-					"appid": 258130,
-					"name": "XXX don't use XXX"
-				},
-				{
 					"appid": 258150,
 					"name": "Arma Tactics Demo"
 				},
@@ -42661,322 +41017,6 @@
 				{
 					"appid": 258270,
 					"name": "Total War: ROME II - Nomadic Tribes Culture Pack"
-				},
-				{
-					"appid": 258280,
-					"name": "Steam Music"
-				},
-				{
-					"appid": 258341,
-					"name": "Rocksmith 2014 - Disc Import Pack"
-				},
-				{
-					"appid": 258342,
-					"name": "Rocksmith 2014 - The Smashing Pumpkins - “Today”"
-				},
-				{
-					"appid": 258343,
-					"name": "Rocksmith 2014 – The Smashing Pumpkins - “Bullet with Butterfly Wings”"
-				},
-				{
-					"appid": 258344,
-					"name": "Rocksmith 2014 – The Smashing Pumpkins - “1979”"
-				},
-				{
-					"appid": 258345,
-					"name": "Rocksmith 2014 - The Smashing Pumpkins - \"Tonight, Tonight\""
-				},
-				{
-					"appid": 258346,
-					"name": "Rocksmith® 2014 – The Smashing Pumpkins - “Disarm”"
-				},
-				{
-					"appid": 258347,
-					"name": "Rocksmith 2014 - The Smashing Pumpkins Song Pack"
-				},
-				{
-					"appid": 258348,
-					"name": "Rocksmith 2014 - Iron Maiden - Fear of the Dark"
-				},
-				{
-					"appid": 258349,
-					"name": "Rocksmith 2014 - Iron Maiden - Run to the Hills"
-				},
-				{
-					"appid": 258350,
-					"name": "Rocksmith 2014 - Iron Maiden - Aces High"
-				},
-				{
-					"appid": 258351,
-					"name": "Rocksmith 2014 - Iron Maiden - The Number of the Beast"
-				},
-				{
-					"appid": 258352,
-					"name": "Rocksmith 2014 - Iron Maiden - 2 Minutes to Midnight"
-				},
-				{
-					"appid": 258353,
-					"name": "Rocksmith 2014 - Iron Maiden Song Pack"
-				},
-				{
-					"appid": 258354,
-					"name": "Rocksmith 2014 - Hotei - Battle Without Honor or Humanity"
-				},
-				{
-					"appid": 258355,
-					"name": "Rocksmith 2014 - Hotei - Bambina"
-				},
-				{
-					"appid": 258356,
-					"name": "Rocksmith 2014 - Hotei - Thrill"
-				},
-				{
-					"appid": 258357,
-					"name": "Rocksmith 2014 - Hotei Song Pack"
-				},
-				{
-					"appid": 258358,
-					"name": "Rocksmith 2014 - Alice in Chains - Man in the Box"
-				},
-				{
-					"appid": 258359,
-					"name": "Rocksmith 2014 - Alice in Chains - Would?"
-				},
-				{
-					"appid": 258360,
-					"name": "Rocksmith 2014 - Alice in Chains - Hollow"
-				},
-				{
-					"appid": 258361,
-					"name": "Rocksmith 2014 - Alice in Chains - Them Bones"
-				},
-				{
-					"appid": 258362,
-					"name": "Rocksmith 2014 - Alice in Chains - Check My Brain"
-				},
-				{
-					"appid": 258363,
-					"name": "Rocksmith 2014 - Alice in Chains Song Pack"
-				},
-				{
-					"appid": 258364,
-					"name": "Rocksmith 2014 - Green Day - Oh Love"
-				},
-				{
-					"appid": 258365,
-					"name": "Rocksmith 2014 - Green Day - Basket Case"
-				},
-				{
-					"appid": 258366,
-					"name": "Rocksmith 2014 - Green Day - American Idiot"
-				},
-				{
-					"appid": 258367,
-					"name": "Rocksmith 2014 - Green Day Song Pack"
-				},
-				{
-					"appid": 258368,
-					"name": "Rocksmith 2014 - B'z - Easy Come, Easy Go!"
-				},
-				{
-					"appid": 258369,
-					"name": "Rocksmith 2014 - B'z - Juice"
-				},
-				{
-					"appid": 258370,
-					"name": "Rocksmith 2014 - B'z - Giri Giri chop"
-				},
-				{
-					"appid": 258371,
-					"name": "Rocksmith 2014 - B'z Song Pack"
-				},
-				{
-					"appid": 258372,
-					"name": "Rocksmith 2014 - The Who - Baba O'Riley"
-				},
-				{
-					"appid": 258373,
-					"name": "Rocksmith 2014 - The Who - Behind Blue Eyes"
-				},
-				{
-					"appid": 258374,
-					"name": "Rocksmith 2014 - The Who - Who Are You"
-				},
-				{
-					"appid": 258375,
-					"name": "Rocksmith 2014 - The Who - Pinball Wizard"
-				},
-				{
-					"appid": 258376,
-					"name": "Rocksmith 2014 - The Who - The Seeker"
-				},
-				{
-					"appid": 258377,
-					"name": "Rocksmith 2014 The Who Song Pack"
-				},
-				{
-					"appid": 258378,
-					"name": "Rocksmith 2014 - Radiohead - Creep"
-				},
-				{
-					"appid": 258379,
-					"name": "Rocksmith 2014 - Radiohead - Just"
-				},
-				{
-					"appid": 258380,
-					"name": "Rocksmith 2014 - Radiohead - Optimistic"
-				},
-				{
-					"appid": 258381,
-					"name": "Rocksmith 2014 - Radiohead - Karma Police"
-				},
-				{
-					"appid": 258382,
-					"name": "Rocksmith 2014 - Radiohead - My Iron Lung"
-				},
-				{
-					"appid": 258383,
-					"name": "Rocksmith 2014 - Radiohead Song Pack"
-				},
-				{
-					"appid": 258384,
-					"name": "Rocksmith 2014 - ONE OK ROCK - NO SCARED"
-				},
-				{
-					"appid": 258385,
-					"name": "Rocksmith 2014 - ONE OK ROCK - Liar"
-				},
-				{
-					"appid": 258386,
-					"name": "Rocksmith 2014 - Kazuyoshi Saito - Yasashiku Naritai"
-				},
-				{
-					"appid": 258388,
-					"name": "Rocksmith 2014 - Disturbed - Down with the Sickness"
-				},
-				{
-					"appid": 258389,
-					"name": "Rocksmith 2014 - Disturbed - Asylum"
-				},
-				{
-					"appid": 258390,
-					"name": "Rocksmith 2014 - Disturbed - Voices"
-				},
-				{
-					"appid": 258391,
-					"name": "Rocksmith 2014 - Disturbed Song Pack"
-				},
-				{
-					"appid": 258392,
-					"name": "Rocksmith 2014 - Muse - Hysteria"
-				},
-				{
-					"appid": 258393,
-					"name": "Rocksmith 2014 - Muse - Time is Running Out"
-				},
-				{
-					"appid": 258394,
-					"name": "Rocksmith 2014 - Muse - Supermassive Black Hole"
-				},
-				{
-					"appid": 258395,
-					"name": "Rocksmith 2014 - Muse - Stockholm Syndrome"
-				},
-				{
-					"appid": 258396,
-					"name": "Rocksmith 2014 - Muse - Muscle Museum"
-				},
-				{
-					"appid": 258397,
-					"name": "Rocksmith 2014 - Muse Song Pack"
-				},
-				{
-					"appid": 258398,
-					"name": "Rocksmith 2014 - Golden Bomber - Memeshikute"
-				},
-				{
-					"appid": 258399,
-					"name": "Rocksmith 2014 - Golden Bomber - Earphone"
-				},
-				{
-					"appid": 258400,
-					"name": "Rocksmith 2014 - Golden Bomber - Death Mental"
-				},
-				{
-					"appid": 258401,
-					"name": "Rocksmith 2014 - Golden Bomber Song Pack"
-				},
-				{
-					"appid": 258402,
-					"name": "Rocksmith 2014 - Foo Fighters - The Pretender"
-				},
-				{
-					"appid": 258403,
-					"name": "Rocksmith 2014 - Foo Fighters - Monkey Wrench"
-				},
-				{
-					"appid": 258404,
-					"name": "Rocksmith 2014 - Foo Fighters - Rope"
-				},
-				{
-					"appid": 258405,
-					"name": "Rocksmith 2014 - Foo Fighters - Learn to Fly"
-				},
-				{
-					"appid": 258406,
-					"name": "Rocksmith 2014 - Foo Fighters - Long Road to Ruin"
-				},
-				{
-					"appid": 258407,
-					"name": "Rocksmith 2014 - Foo Fighters Song Pack II"
-				},
-				{
-					"appid": 258408,
-					"name": "Rocksmith 2014 - Weezer - Island in the Sun"
-				},
-				{
-					"appid": 258409,
-					"name": "Rocksmith 2014 - Weezer - My Name is Jonas"
-				},
-				{
-					"appid": 258410,
-					"name": "Rocksmith 2014 - Weezer - Buddy Holly"
-				},
-				{
-					"appid": 258411,
-					"name": "Rocksmith 2014 - Weezer - Undone - The Sweater Song"
-				},
-				{
-					"appid": 258412,
-					"name": "Rocksmith 2014 - Weezer - Hash Pipe"
-				},
-				{
-					"appid": 258413,
-					"name": "Rocksmith 2014 - Weezer Song Pack"
-				},
-				{
-					"appid": 258414,
-					"name": "Rocksmith 2014 - Oasis - Wonderwall"
-				},
-				{
-					"appid": 258415,
-					"name": "Rocksmith 2014 - Oasis - Champagne Supernova"
-				},
-				{
-					"appid": 258416,
-					"name": "Rocksmith 2014 - Oasis - Supersonic"
-				},
-				{
-					"appid": 258417,
-					"name": "Rocksmith 2014 - Oasis - Live Forever"
-				},
-				{
-					"appid": 258418,
-					"name": "Rocksmith 2014 - Oasis - Some Might Say"
-				},
-				{
-					"appid": 258419,
-					"name": "Rocksmith 2014 - Oasis Song Pack"
 				},
 				{
 					"appid": 258420,
@@ -43381,22 +41421,6 @@
 				{
 					"appid": 259240,
 					"name": "Hardcore Package Part 1 / for Hacker Evolution: Untold"
-				},
-				{
-					"appid": 259250,
-					"name": "Call of Duty: Ghosts - Onslaught"
-				},
-				{
-					"appid": 259251,
-					"name": "Call of Duty: Ghosts - Devastation"
-				},
-				{
-					"appid": 259252,
-					"name": "Call of Duty: Ghosts - Invasion"
-				},
-				{
-					"appid": 259253,
-					"name": "Call of Duty: Ghosts - Nemesis"
 				},
 				{
 					"appid": 259260,
@@ -45447,14 +43471,6 @@
 					"name": "Starbound - Soundtrack"
 				},
 				{
-					"appid": 268100,
-					"name": "Call of Duty: Ghosts - Festive Pack"
-				},
-				{
-					"appid": 268101,
-					"name": "Call of Duty: Ghosts - Wolf Skin"
-				},
-				{
 					"appid": 268110,
 					"name": "Star Conflict - Sticker Candle"
 				},
@@ -46153,306 +44169,6 @@
 				{
 					"appid": 271400,
 					"name": "Electronic Super Joy Bonus Content"
-				},
-				{
-					"appid": 271410,
-					"name": "Rocksmith 2014 - Aerosmith - Dream On"
-				},
-				{
-					"appid": 271411,
-					"name": "Rocksmith 2014 - Aerosmith - Sweet Emotion"
-				},
-				{
-					"appid": 271412,
-					"name": "Rocksmith 2014 - Aerosmith - Oh Yeah"
-				},
-				{
-					"appid": 271413,
-					"name": "Rocksmith 2014 - Aerosmith - Legendary Child"
-				},
-				{
-					"appid": 271414,
-					"name": "Rocksmith 2014 - Aerosmith - Same Old Song and Dance"
-				},
-				{
-					"appid": 271415,
-					"name": "Rocksmith 2014 - Aerosmith Song Pack"
-				},
-				{
-					"appid": 271416,
-					"name": "Rocksmith 2014 - System of a Down - B.Y.O.B."
-				},
-				{
-					"appid": 271417,
-					"name": "Rocksmith 2014 - System of a Down - Toxicity"
-				},
-				{
-					"appid": 271418,
-					"name": "Rocksmith 2014 - System of a Down - Aerials"
-				},
-				{
-					"appid": 271419,
-					"name": "Rocksmith 2014 - System of a Down Song Pack"
-				},
-				{
-					"appid": 271420,
-					"name": "Rocksmith 2014 - 9mm Parabellum Bullet - Atarashii Hikari"
-				},
-				{
-					"appid": 271421,
-					"name": "Rocksmith 2014 - 9mm Parabellum Bullet - Punishment"
-				},
-				{
-					"appid": 271422,
-					"name": "Rocksmith 2014 - Kiss - Detroit Rock City"
-				},
-				{
-					"appid": 271423,
-					"name": "Rocksmith 2014 - Kiss - I Was Made For Loving You"
-				},
-				{
-					"appid": 271424,
-					"name": "Rocksmith 2014 - Kiss - Heaven's On Fire"
-				},
-				{
-					"appid": 271425,
-					"name": "Rocksmith 2014 - Kiss Song Pack"
-				},
-				{
-					"appid": 271426,
-					"name": "Rocksmith 2014 - R.E.M. - What's the Frequency, Kenneth?"
-				},
-				{
-					"appid": 271427,
-					"name": "Rocksmith 2014 - R.E.M. - Überlin"
-				},
-				{
-					"appid": 271428,
-					"name": "Rocksmith 2014 - R.E.M. - Everybody Hurts"
-				},
-				{
-					"appid": 271429,
-					"name": "Rocksmith 2014 - R.E.M. - The One I Love"
-				},
-				{
-					"appid": 271430,
-					"name": "Rocksmith 2014 - R.E.M. - Shiny, Happy People"
-				},
-				{
-					"appid": 271431,
-					"name": "Rocksmith 2014 - R.E.M. Song Pack"
-				},
-				{
-					"appid": 271432,
-					"name": "Rocksmith 2014 - STRAIGHTENER - From Noon Till Dawn"
-				},
-				{
-					"appid": 271433,
-					"name": "Rocksmith 2014 - STRAIGHTENER - ROCKSTEADY"
-				},
-				{
-					"appid": 271438,
-					"name": "Rocksmith 2014 - RIZE - PARADOX Taiso"
-				},
-				{
-					"appid": 271439,
-					"name": "Rocksmith 2014 - ACIDMAN - Shinsekai"
-				},
-				{
-					"appid": 271440,
-					"name": "Rocksmith 2014 - The Birthday - stupid"
-				},
-				{
-					"appid": 271441,
-					"name": "Rocksmith 2014 - Boston - Hitch A Ride"
-				},
-				{
-					"appid": 271442,
-					"name": "Rocksmith 2014 - Boston - Don't Look Back"
-				},
-				{
-					"appid": 271443,
-					"name": "Rocksmith 2014 - Boston - Foreplay/Long Time"
-				},
-				{
-					"appid": 271444,
-					"name": "Rocksmith 2014 - Boston Song Pack"
-				},
-				{
-					"appid": 271445,
-					"name": "Rocksmith 2014 - The Doors - Light My Fire"
-				},
-				{
-					"appid": 271446,
-					"name": "Rocksmith 2014 - The Doors - Riders on the Storm"
-				},
-				{
-					"appid": 271447,
-					"name": "Rocksmith 2014 - The Doors - Roadhouse Blues"
-				},
-				{
-					"appid": 271448,
-					"name": "Rocksmith 2014 - The Doors Song Pack"
-				},
-				{
-					"appid": 271449,
-					"name": "Rocksmith 2014 - Rise Against - Prayer of the Refugee"
-				},
-				{
-					"appid": 271450,
-					"name": "Rocksmith 2014 - Rise Against - Give It All"
-				},
-				{
-					"appid": 271451,
-					"name": "Rocksmith 2014 - Rise Against - Make It Stop (September's Children)"
-				},
-				{
-					"appid": 271452,
-					"name": "Rocksmith 2014 - Rise Against - Swing Life Away"
-				},
-				{
-					"appid": 271453,
-					"name": "Rocksmith 2014 - Rise Against - Satellite"
-				},
-				{
-					"appid": 271454,
-					"name": "Rocksmith 2014 - Rise Against Song Pack"
-				},
-				{
-					"appid": 271455,
-					"name": "Rocksmith 2014 - Heart - Crazy On You"
-				},
-				{
-					"appid": 271456,
-					"name": "Rocksmith 2014 - Halestorm - Love Bites (So Do I)"
-				},
-				{
-					"appid": 271457,
-					"name": "Rocksmith 2014 - Flyleaf - All Around Me"
-				},
-				{
-					"appid": 271458,
-					"name": "Rocksmith 2014 - A Day To Remember - It's Complicated"
-				},
-				{
-					"appid": 271459,
-					"name": "Rocksmith 2014 - A Day To Remember - The Downfall of Us All"
-				},
-				{
-					"appid": 271460,
-					"name": "Rocksmith 2014 - A Day To Remember - All I Want"
-				},
-				{
-					"appid": 271461,
-					"name": "Rocksmith 2014 - A Day To Remember - If It Means a Lot to You"
-				},
-				{
-					"appid": 271462,
-					"name": "Rocksmith 2014 - A Day To Remember - All Signs Point to Lauderdale"
-				},
-				{
-					"appid": 271463,
-					"name": "Rocksmith 2014 - A Day To Remember Song Pack"
-				},
-				{
-					"appid": 271464,
-					"name": "Rocksmith 2014 - Matchbox Twenty - 3AM"
-				},
-				{
-					"appid": 271465,
-					"name": "Rocksmith 2014 - Matchbox Twenty - Push"
-				},
-				{
-					"appid": 271466,
-					"name": "Rocksmith 2014 - Matchbox Twenty - How Far We've Come"
-				},
-				{
-					"appid": 271467,
-					"name": "Rocksmith 2014 - Matchbox Twenty - She's So Mean"
-				},
-				{
-					"appid": 271468,
-					"name": "Rocksmith 2014 - Matchbox Twenty - Unwell"
-				},
-				{
-					"appid": 271469,
-					"name": "Rocksmith 2014 - Matchbox Twenty Song Pack"
-				},
-				{
-					"appid": 271470,
-					"name": "Rocksmith 2014 - AFI - Totalimmortal"
-				},
-				{
-					"appid": 271471,
-					"name": "Rocksmith 2014 - AFI - Girl's Not Grey"
-				},
-				{
-					"appid": 271472,
-					"name": "Rocksmith 2014 - AFI - Miss Murder"
-				},
-				{
-					"appid": 271473,
-					"name": "Rocksmith 2014 - AFI - Silver and Cold"
-				},
-				{
-					"appid": 271474,
-					"name": "Rocksmith 2014 - AFI Song Pack"
-				},
-				{
-					"appid": 271475,
-					"name": "Rocksmith 2014 - Bob Dylan - Just Like a Woman"
-				},
-				{
-					"appid": 271476,
-					"name": "Rocksmith 2014 - Bob Dylan - Like a Rolling Stone"
-				},
-				{
-					"appid": 271477,
-					"name": "Rocksmith 2014 - Bob Dylan - Subterranean Homesick Blues"
-				},
-				{
-					"appid": 271478,
-					"name": "Rocksmith 2014 - Bob Dylan Song Pack"
-				},
-				{
-					"appid": 271479,
-					"name": "Rocksmith 2014 - Rage Against the Machine - Killing in the Name"
-				},
-				{
-					"appid": 271480,
-					"name": "Rocksmith 2014 - Rage Against the Machine - Wake Up"
-				},
-				{
-					"appid": 271481,
-					"name": "Rocksmith 2014 - Rage Against the Machine - Know Your Enemy"
-				},
-				{
-					"appid": 271489,
-					"name": "Rocksmith 2014 - Garbage - Stupid Girl"
-				},
-				{
-					"appid": 271490,
-					"name": "Rocksmith 2014 - Garbage - I Think I'm Paranoid"
-				},
-				{
-					"appid": 271491,
-					"name": "Rocksmith 2014 - Garbage - Only Happy When It Rains"
-				},
-				{
-					"appid": 271492,
-					"name": "Rocksmith 2014 - Garbage Song Pack"
-				},
-				{
-					"appid": 271497,
-					"name": "Rocksmith 2014 - Everclear - Father of Mine"
-				},
-				{
-					"appid": 271498,
-					"name": "Rocksmith 2014 - Silverchair - Tomorrow"
-				},
-				{
-					"appid": 271499,
-					"name": "Rocksmith 2014 - Spin Doctors - Two Princes"
 				},
 				{
 					"appid": 271500,
@@ -47495,46 +45211,6 @@
 					"name": "Panzer Tactics HD"
 				},
 				{
-					"appid": 277670,
-					"name": "Call of Duty: Ghosts - Extra Slots Pack"
-				},
-				{
-					"appid": 277671,
-					"name": "Call of Duty: Ghosts - Elias Character"
-				},
-				{
-					"appid": 277672,
-					"name": "Call of Duty: Ghosts - Hesh Character"
-				},
-				{
-					"appid": 277673,
-					"name": "Call of Duty: Ghosts - Merrick Character"
-				},
-				{
-					"appid": 277674,
-					"name": "Call of Duty: Ghosts - Keegan Character"
-				},
-				{
-					"appid": 277675,
-					"name": "Call of Duty: Ghosts - Price Legend Pack"
-				},
-				{
-					"appid": 277676,
-					"name": "Call of Duty: Ghosts - Ducky Personalization Pack"
-				},
-				{
-					"appid": 277677,
-					"name": "Call of Duty: Ghosts - Circuit Personalization Pack"
-				},
-				{
-					"appid": 277678,
-					"name": "Call of Duty: Ghosts - Inferno Personalization Pack"
-				},
-				{
-					"appid": 277679,
-					"name": "Call of Duty: Ghosts - Space Cats Personalization Pack"
-				},
-				{
 					"appid": 277680,
 					"name": "About Love, Hate and the other ones"
 				},
@@ -48313,38 +45989,6 @@
 				{
 					"appid": 281280,
 					"name": "Mashed"
-				},
-				{
-					"appid": 281340,
-					"name": "Call of Duty: Ghosts - Makarov Legend Pack"
-				},
-				{
-					"appid": 281341,
-					"name": "Call of Duty: Ghosts - Zakhaev Character"
-				},
-				{
-					"appid": 281342,
-					"name": "Call of Duty: Ghosts - Rorke Character"
-				},
-				{
-					"appid": 281343,
-					"name": "Call of Duty: Ghosts - Hazmat Character"
-				},
-				{
-					"appid": 281344,
-					"name": "Call of Duty: Ghosts - 1987 Personalization Pack"
-				},
-				{
-					"appid": 281345,
-					"name": "Call of Duty: Ghosts - Eyeballs Personalization Pack"
-				},
-				{
-					"appid": 281346,
-					"name": "Call of Duty: Ghosts - Blunt Force Personalization Pack"
-				},
-				{
-					"appid": 281347,
-					"name": "Call of Duty: Ghosts - Hex Personalization Pack"
 				},
 				{
 					"appid": 281350,
@@ -49385,34 +47029,6 @@
 				{
 					"appid": 286570,
 					"name": "F1 2015"
-				},
-				{
-					"appid": 286630,
-					"name": "Call of Duty: Ghosts - Heartlands Personalization Pack"
-				},
-				{
-					"appid": 286631,
-					"name": "Call of Duty: Ghosts - Molten Personalization Pack"
-				},
-				{
-					"appid": 286632,
-					"name": "Call of Duty: Ghosts - Soap Legend Pack"
-				},
-				{
-					"appid": 286633,
-					"name": "Call of Duty: Ghosts - Squad Pack - Extinction"
-				},
-				{
-					"appid": 286634,
-					"name": "Call of Duty: Ghosts - Classic Ghost Pack"
-				},
-				{
-					"appid": 286635,
-					"name": "Call of Duty: Ghosts - Drill Instructor Voice Pack"
-				},
-				{
-					"appid": 286636,
-					"name": "Call of Duty: Ghosts - Snoop Dogg Voice Pack"
 				},
 				{
 					"appid": 286640,
@@ -51335,766 +48951,6 @@
 					"name": "Valkyria Chronicles™"
 				},
 				{
-					"appid": 294900,
-					"name": "Rocksmith 2014 - Alter Bridge - Rise Today"
-				},
-				{
-					"appid": 294901,
-					"name": "Rocksmith 2014 - Alter Bridge - Ties That Bind"
-				},
-				{
-					"appid": 294902,
-					"name": "Rocksmith 2014 - Alter Bridge - Blackbird"
-				},
-				{
-					"appid": 294903,
-					"name": "Rocksmith 2014 - Alter Bridge - Isolation"
-				},
-				{
-					"appid": 294904,
-					"name": "Rocksmith 2014 - Alter Bridge Song Pack"
-				},
-				{
-					"appid": 294905,
-					"name": "Rocksmith 2014 - 311 - Amber"
-				},
-				{
-					"appid": 294906,
-					"name": "Rocksmith 2014 - 311 - Beautiful Disaster"
-				},
-				{
-					"appid": 294907,
-					"name": "Rocksmith 2014 - 311 - Down"
-				},
-				{
-					"appid": 294908,
-					"name": "Rocksmith 2014 - 311 Song Pack"
-				},
-				{
-					"appid": 294909,
-					"name": "Rocksmith 2014 - Mastodon - Black Tongue"
-				},
-				{
-					"appid": 294910,
-					"name": "Rocksmith 2014 - Mastodon - Oblivion"
-				},
-				{
-					"appid": 294911,
-					"name": "Rocksmith 2014 - Mastodon - Colony Of Birchmen"
-				},
-				{
-					"appid": 294912,
-					"name": "Rocksmith 2014 - Mastodon Song Pack"
-				},
-				{
-					"appid": 294913,
-					"name": "Rocksmith 2014 - Cake - The Distance"
-				},
-				{
-					"appid": 294914,
-					"name": "Rocksmith 2014 - Cake - I Will Survive"
-				},
-				{
-					"appid": 294915,
-					"name": "Rocksmith 2014 - Cake - Never There"
-				},
-				{
-					"appid": 294916,
-					"name": "Rocksmith 2014 - Cake - Short Skirt/Long Jacket"
-				},
-				{
-					"appid": 294917,
-					"name": "Rocksmith 2014 - Cake - Stickshifts And Safetybelts"
-				},
-				{
-					"appid": 294918,
-					"name": "Rocksmith 2014 - Cake Song Pack"
-				},
-				{
-					"appid": 294919,
-					"name": "Rocksmith 2014 - Slash - Anastasia"
-				},
-				{
-					"appid": 294920,
-					"name": "Rocksmith 2014 - Slash - Back From Cali"
-				},
-				{
-					"appid": 294921,
-					"name": "Rocksmith 2014 - Slash - You're a Lie"
-				},
-				{
-					"appid": 294922,
-					"name": "Rocksmith 2014 - Slash Song Pack"
-				},
-				{
-					"appid": 294923,
-					"name": "Rocksmith 2014 - Sum 41 - We're All to Blame"
-				},
-				{
-					"appid": 294924,
-					"name": "Rocksmith 2014 - Sum 41 - Fat Lip"
-				},
-				{
-					"appid": 294925,
-					"name": "Rocksmith 2014 - Sum 41 - In Too Deep"
-				},
-				{
-					"appid": 294926,
-					"name": "Rocksmith 2014 - Sum 41 - Still Waiting"
-				},
-				{
-					"appid": 294927,
-					"name": "Rocksmith 2014 - Sum 41 - The Hell Song"
-				},
-				{
-					"appid": 294928,
-					"name": "Rocksmith 2014 - Sum 41 Song Pack"
-				},
-				{
-					"appid": 294929,
-					"name": "Rocksmith 2014 - Bill Withers - Ain't No Sunshine"
-				},
-				{
-					"appid": 294930,
-					"name": "Rocksmith 2014 - Roy Buchanan - Sweet Dreams"
-				},
-				{
-					"appid": 294931,
-					"name": "Rocksmith 2014 - James Gang - Funk #49"
-				},
-				{
-					"appid": 294932,
-					"name": "Rocksmith 2014 - Deep Purple - Highway Star"
-				},
-				{
-					"appid": 294934,
-					"name": "Rocksmith 2014 - Godsmack - Awake"
-				},
-				{
-					"appid": 294935,
-					"name": "Rocksmith 2014 - Godsmack - Cryin' Like a Bitch"
-				},
-				{
-					"appid": 294936,
-					"name": "Rocksmith 2014 - Godsmack - I Stand Alone"
-				},
-				{
-					"appid": 294937,
-					"name": "Rocksmith 2014 - Godsmack - Love-Hate-Sex-Pain"
-				},
-				{
-					"appid": 294938,
-					"name": "Rocksmith 2014 - Godsmack - Voodoo"
-				},
-				{
-					"appid": 294939,
-					"name": "Rocksmith 2014 - Godsmack Song Pack"
-				},
-				{
-					"appid": 294940,
-					"name": "Rocksmith 2014 - The Surfaris - Wipe Out"
-				},
-				{
-					"appid": 294941,
-					"name": "Rocksmith 2014 - The Ventures - Walk Don't Run"
-				},
-				{
-					"appid": 294942,
-					"name": "Rocksmith 2014 - Dick Dale and His Del-Tones - Misirlou"
-				},
-				{
-					"appid": 294943,
-					"name": "Rocksmith 2014 - Billy Talent - Devil in a Midnight Mass"
-				},
-				{
-					"appid": 294944,
-					"name": "Rocksmith 2014 - Billy Talent - Fallen Leaves"
-				},
-				{
-					"appid": 294945,
-					"name": "Rocksmith 2014 - Billy Talent - Red Flag"
-				},
-				{
-					"appid": 294946,
-					"name": "Rocksmith 2014 - Billy Talent - Try Honesty"
-				},
-				{
-					"appid": 294947,
-					"name": "Rocksmith 2014 - Billy Talent - Viking Death March"
-				},
-				{
-					"appid": 294948,
-					"name": "Rocksmith 2014 - Billy Talent Song Pack"
-				},
-				{
-					"appid": 294953,
-					"name": "Rocksmith 2014 - Deftones - Be Quiet and Drive (Far Away)"
-				},
-				{
-					"appid": 294954,
-					"name": "Rocksmith 2014 - Deftones - Change (In the House of Flies)"
-				},
-				{
-					"appid": 294955,
-					"name": "Rocksmith 2014 - Deftones - Digital Bath"
-				},
-				{
-					"appid": 294956,
-					"name": "Rocksmith 2014 - Deftones - Hole in the Earth"
-				},
-				{
-					"appid": 294957,
-					"name": "Rocksmith 2014 - Deftones Song Pack"
-				},
-				{
-					"appid": 294958,
-					"name": "Rocksmith 2014 - Surf Rock Song Pack"
-				},
-				{
-					"appid": 294959,
-					"name": "Rocksmith 2014 - The Libertines - Don't Look Back Into The Sun"
-				},
-				{
-					"appid": 294960,
-					"name": "Rocksmith 2014 - The Libertines - Can't Stand Me Now"
-				},
-				{
-					"appid": 294961,
-					"name": "Rocksmith 2014 - The Libertines - What Katie Did"
-				},
-				{
-					"appid": 294962,
-					"name": "Rocksmith 2014 - The Libertines Song Pack"
-				},
-				{
-					"appid": 294963,
-					"name": "Rocksmith 2014 - Toto - Hold the Line"
-				},
-				{
-					"appid": 294964,
-					"name": "Rocksmith 2014 - Rupert Homes - Escape (The Piña Colada Song)"
-				},
-				{
-					"appid": 294965,
-					"name": "Rocksmith 2014 - The Doobie Brothers - China Grove"
-				},
-				{
-					"appid": 294966,
-					"name": "Rocksmith 2014 - Michael McDonald - I Keep Forgettin' (Every Time You're Near)"
-				},
-				{
-					"appid": 294967,
-					"name": "Rocksmith 2014 - Daryl Hall and John Oates - Kiss On My List"
-				},
-				{
-					"appid": 294968,
-					"name": "Rocksmith 2014 - Lamb of God - Laid to Rest"
-				},
-				{
-					"appid": 294969,
-					"name": "Rocksmith 2014 - Lamb of God - Walk With Me In Hell"
-				},
-				{
-					"appid": 294970,
-					"name": "Rocksmith 2014 - Lamb of God - Ghost Walking"
-				},
-				{
-					"appid": 294971,
-					"name": "Rocksmith 2014 - Lamb of God Song Pack"
-				},
-				{
-					"appid": 294972,
-					"name": "Rocksmith 2014 - Biffy Clyro - Black Chandelier"
-				},
-				{
-					"appid": 294973,
-					"name": "Rocksmith 2014 - Biffy Clyro - Bubbles"
-				},
-				{
-					"appid": 294974,
-					"name": "Rocksmith 2014 - Biffy Clyro - Many of Horror"
-				},
-				{
-					"appid": 294975,
-					"name": "Rocksmith 2014 - Biffy Clyro - Mountains"
-				},
-				{
-					"appid": 294976,
-					"name": "Rocksmith 2014 - Biffy Clyro - Stingin' Belle"
-				},
-				{
-					"appid": 294977,
-					"name": "Rocksmith 2014 - Biffy Clyro Song Pack"
-				},
-				{
-					"appid": 294978,
-					"name": "Rocksmith 2014 - No Doubt - Don't Speak"
-				},
-				{
-					"appid": 294979,
-					"name": "Rocksmith 2014 - No Doubt - Ex-Girlfriend"
-				},
-				{
-					"appid": 294980,
-					"name": "Rocksmith 2014 - No Doubt - Spiderwebs"
-				},
-				{
-					"appid": 294981,
-					"name": "Rocksmith 2014 - No Doubt Song Pack"
-				},
-				{
-					"appid": 294982,
-					"name": "Rocksmith 2014 - Duran Duran - Ordinary World"
-				},
-				{
-					"appid": 294983,
-					"name": "Rocksmith 2014 - Duran Duran - Hungry Like the Wolf"
-				},
-				{
-					"appid": 294984,
-					"name": "Rocksmith 2014 - Duran Duran - Rio"
-				},
-				{
-					"appid": 294985,
-					"name": "Rocksmith 2014 - Duran Duran Song Pack"
-				},
-				{
-					"appid": 294990,
-					"name": "Rocksmith 2014 - Bachsmith"
-				},
-				{
-					"appid": 294992,
-					"name": "Rocksmith 2014 - Sublime - What I Got"
-				},
-				{
-					"appid": 294993,
-					"name": "Rocksmith 2014 - Sublime - Wrong Way"
-				},
-				{
-					"appid": 294994,
-					"name": "Rocksmith 2014 - Sublime - Smoke Two Joints"
-				},
-				{
-					"appid": 294995,
-					"name": "Rocksmith 2014 - Sublime - Caress Me Down"
-				},
-				{
-					"appid": 294996,
-					"name": "Rocksmith 2014 - Sublime - Santeria"
-				},
-				{
-					"appid": 294997,
-					"name": "Rocksmith 2014 - Sublime Song Pack"
-				},
-				{
-					"appid": 294998,
-					"name": "Rocksmith 2014 - Lynyrd Skynyrd - Simple Man"
-				},
-				{
-					"appid": 294999,
-					"name": "Rocksmith 2014 - Ted Nugent - Stranglehold"
-				},
-				{
-					"appid": 295000,
-					"name": "Rocksmith 2014 - Creed - With Arms Wide Open"
-				},
-				{
-					"appid": 295001,
-					"name": "Rocksmith 2014 - Creed - One Last Breath"
-				},
-				{
-					"appid": 295002,
-					"name": "Rocksmith 2014 - Creed - My Sacrifice"
-				},
-				{
-					"appid": 295003,
-					"name": "Rocksmith 2014 - Creed - My Own Prison"
-				},
-				{
-					"appid": 295004,
-					"name": "Rocksmith 2014 - Creed - Higher"
-				},
-				{
-					"appid": 295005,
-					"name": "Rocksmith 2014 - Creed Song Pack"
-				},
-				{
-					"appid": 295006,
-					"name": "Rocksmith 2014 - Shinedown - Enemies"
-				},
-				{
-					"appid": 295007,
-					"name": "Rocksmith 2014 - Shinedown - Second Chance"
-				},
-				{
-					"appid": 295008,
-					"name": "Rocksmith 2014 - Shinedown - Bully"
-				},
-				{
-					"appid": 295009,
-					"name": "Rocksmith 2014 - Shinedown - 45"
-				},
-				{
-					"appid": 295010,
-					"name": "Rocksmith 2014 - Shinedown - Sound of Madness"
-				},
-				{
-					"appid": 295011,
-					"name": "Rocksmith 2014 - Shinedown Song Pack"
-				},
-				{
-					"appid": 295012,
-					"name": "Rocksmith 2014 - Foreigner - Juke Box Hero"
-				},
-				{
-					"appid": 295013,
-					"name": "Rocksmith 2014 - Foreigner - Hot Blooded"
-				},
-				{
-					"appid": 295014,
-					"name": "Rocksmith 2014 - Foreigner - Double Vision"
-				},
-				{
-					"appid": 295015,
-					"name": "Rocksmith 2014 - Foreigner - Feels Like The First Time"
-				},
-				{
-					"appid": 295016,
-					"name": "Rocksmith 2014 - Foreigner - Cold As Ice"
-				},
-				{
-					"appid": 295017,
-					"name": "Rocksmith 2014 - Foreigner Song Pack"
-				},
-				{
-					"appid": 295018,
-					"name": "Rocksmith 2014 - Audioslave - I Am The Highway"
-				},
-				{
-					"appid": 295019,
-					"name": "Rocksmith 2014 - Audioslave - Be Yourself"
-				},
-				{
-					"appid": 295020,
-					"name": "Rocksmith 2014 - Audioslave - Like a Stone"
-				},
-				{
-					"appid": 295021,
-					"name": "Rocksmith 2014 - Audioslave - Cochise"
-				},
-				{
-					"appid": 295022,
-					"name": "Rocksmith 2014 – Audioslave - Show Me How to Live"
-				},
-				{
-					"appid": 295023,
-					"name": "Rocksmith 2014 - Audioslave Song Pack"
-				},
-				{
-					"appid": 295024,
-					"name": "Rocksmith 2014 - The White Stripes - Seven Nation Army"
-				},
-				{
-					"appid": 295025,
-					"name": "Rocksmith 2014 - The White Stripes - Fell in Love with a Girl"
-				},
-				{
-					"appid": 295026,
-					"name": "Rocksmith 2014 - The White Stripes - The Hardest Button to Button"
-				},
-				{
-					"appid": 295027,
-					"name": "Rocksmith 2014 - The White Stripes - You Don't Know What Love Is (You Just Do as You're Told)"
-				},
-				{
-					"appid": 295028,
-					"name": "Rocksmith 2014 - The White Stripes - Blue Orchid"
-				},
-				{
-					"appid": 295029,
-					"name": "Rocksmith 2014 - The White Stripes Song Pack"
-				},
-				{
-					"appid": 295030,
-					"name": "Rocksmith 2014 - Poison - Nothin' But A Good Time"
-				},
-				{
-					"appid": 295031,
-					"name": "Rocksmith 2014 - Billy Squier - The Stroke"
-				},
-				{
-					"appid": 295032,
-					"name": "Rocksmith 2014 - Autograph - Turn Up The Radio"
-				},
-				{
-					"appid": 295033,
-					"name": "Rocksmith 2014 - Winger - Seventeen"
-				},
-				{
-					"appid": 295034,
-					"name": "Rocksmith 2014 - Dio - Holy Diver"
-				},
-				{
-					"appid": 295035,
-					"name": "Rocksmith 2014 - The Killers - Mr. Brightside"
-				},
-				{
-					"appid": 295036,
-					"name": "Rocksmith 2014 - The Killers - When You Were Young"
-				},
-				{
-					"appid": 295037,
-					"name": "Rocksmith 2014 - The Killers - Somebody Told Me"
-				},
-				{
-					"appid": 295038,
-					"name": "Rocksmith 2014 - The Killers - Spaceman"
-				},
-				{
-					"appid": 295039,
-					"name": "Rocksmith 2014 - The Killers - Runaways"
-				},
-				{
-					"appid": 295040,
-					"name": "Rocksmith 2014 - The Killers Song Pack"
-				},
-				{
-					"appid": 295041,
-					"name": "Rocksmith 2014 - Killswitch Engage - My Curse"
-				},
-				{
-					"appid": 295042,
-					"name": "Rocksmith 2014 - Killswitch Engage - The End Of Heartache"
-				},
-				{
-					"appid": 295043,
-					"name": "Rocksmith 2014 - Killswitch Engage - Holy Diver"
-				},
-				{
-					"appid": 295044,
-					"name": "Rocksmith 2014 - Killswitch Engage Song Pack"
-				},
-				{
-					"appid": 295045,
-					"name": "Rocksmith 2014 - Tom Petty and the Heartbreakers - Learning to Fly"
-				},
-				{
-					"appid": 295046,
-					"name": "Rocksmith 2014 - Tom Petty and the Heartbreakers - Refugee"
-				},
-				{
-					"appid": 295047,
-					"name": "Rocksmith 2014 - Tom Petty and the Heartbreakers - American Girl"
-				},
-				{
-					"appid": 295048,
-					"name": "Rocksmith 2014 - Tom Petty - Free Fallin'"
-				},
-				{
-					"appid": 295049,
-					"name": "Rocksmith 2014 - Tom Petty - I Won't Back Down"
-				},
-				{
-					"appid": 295050,
-					"name": "Rocksmith 2014 - Tom Petty Song Pack"
-				},
-				{
-					"appid": 295051,
-					"name": "Rocksmith 2014 - Bullet For My Valentine - Tears Don't Fall"
-				},
-				{
-					"appid": 295052,
-					"name": "Rocksmith 2014 - Bullet For My Valentine - Hearts Burst Into Fire"
-				},
-				{
-					"appid": 295053,
-					"name": "Rocksmith 2014 - Bullet For My Valentine - Your Betrayal"
-				},
-				{
-					"appid": 295054,
-					"name": "Rocksmith 2014 - Bullet For My Valentine - Scream Aim Fire"
-				},
-				{
-					"appid": 295055,
-					"name": "Rocksmith 2014 - Bullet For My Valentine - Hand of Blood"
-				},
-				{
-					"appid": 295056,
-					"name": "Rocksmith 2014 - Bullet For My Valentine Song Pack"
-				},
-				{
-					"appid": 295057,
-					"name": "Rocksmith 2014 - Bon Jovi - It's My Life"
-				},
-				{
-					"appid": 295058,
-					"name": "Rocksmith 2014 - Bon Jovi - Livin' On A Prayer"
-				},
-				{
-					"appid": 295059,
-					"name": "Rocksmith 2014 - Bon Jovi - Wanted Dead Or Alive"
-				},
-				{
-					"appid": 295060,
-					"name": "Rocksmith 2014 - Bon Jovi - You Give Love A Bad Name"
-				},
-				{
-					"appid": 295061,
-					"name": "Rocksmith 2014 - Bon Jovi - Blaze Of Glory"
-				},
-				{
-					"appid": 295062,
-					"name": "Rocksmith 2014 - Bon Jovi Song Pack"
-				},
-				{
-					"appid": 295063,
-					"name": "Rocksmith 2014 - Rage Against the Machine - Bombtrack"
-				},
-				{
-					"appid": 295064,
-					"name": "Rocksmith 2014 - Rage Against the Machine Song Pack I"
-				},
-				{
-					"appid": 295065,
-					"name": "Rocksmith 2014 - Rage Against the Machine - Renegades of Funk"
-				},
-				{
-					"appid": 295066,
-					"name": "Rocksmith 2014 - Rage Against the Machine - Bulls on Parade"
-				},
-				{
-					"appid": 295067,
-					"name": "Rocksmith 2014 - Rage Against the Machine - Down Rodeo"
-				},
-				{
-					"appid": 295068,
-					"name": "Rocksmith 2014 - Rage Against the Machine Song Pack II"
-				},
-				{
-					"appid": 295069,
-					"name": "Rocksmith 2014 - Rage Against the Machine Song Pack (I-II)"
-				},
-				{
-					"appid": 295070,
-					"name": "Rocksmith 2014 - Jimi Hendrix - Purple Haze"
-				},
-				{
-					"appid": 295071,
-					"name": "Rocksmith 2014 - Jimi Hendrix - The Wind Cries Mary"
-				},
-				{
-					"appid": 295072,
-					"name": "Rocksmith 2014 - Jimi Hendrix - Manic Depression"
-				},
-				{
-					"appid": 295073,
-					"name": "Rocksmith 2014 - Jimi Hendrix Song Pack I"
-				},
-				{
-					"appid": 295074,
-					"name": "Rocksmith 2014 - Jimi Hendrix - Foxey Lady"
-				},
-				{
-					"appid": 295075,
-					"name": "Rocksmith 2014 - Jimi Hendrix - Bold As Love"
-				},
-				{
-					"appid": 295076,
-					"name": "Rocksmith 2014 - Jimi Hendrix - Castles Made Of Sand"
-				},
-				{
-					"appid": 295077,
-					"name": "Rocksmith 2014 - Jimi Hendrix Song Pack II"
-				},
-				{
-					"appid": 295078,
-					"name": "Rocksmith 2014 - Jimi Hendrix - Little Wing"
-				},
-				{
-					"appid": 295079,
-					"name": "Rocksmith 2014 - Jimi Hendrix - Freedom"
-				},
-				{
-					"appid": 295080,
-					"name": "Rocksmith 2014 - Jimi Hendrix - Fire"
-				},
-				{
-					"appid": 295081,
-					"name": "Rocksmith 2014 - Jimi Hendrix Song Pack III"
-				},
-				{
-					"appid": 295082,
-					"name": "Rocksmith 2014 - Jimi Hendrix - If 6 Was 9"
-				},
-				{
-					"appid": 295083,
-					"name": "Rocksmith 2014 - Jimi Hendrix - Voodoo Child (Slight Return)"
-				},
-				{
-					"appid": 295084,
-					"name": "Rocksmith 2014 - Jimi Hendrix - Red House"
-				},
-				{
-					"appid": 295085,
-					"name": "Rocksmith 2014 - Jimi Hendrix Song Pack IV"
-				},
-				{
-					"appid": 295086,
-					"name": "Rocksmith 2014 - Jimi Hendrix Song Pack (I-II-III-IV)"
-				},
-				{
-					"appid": 295087,
-					"name": "Rocksmith 2014 - Linkin Park - Guilty All The Same"
-				},
-				{
-					"appid": 295088,
-					"name": "Rocksmith 2014 - Linkin Park - Bleed It Out"
-				},
-				{
-					"appid": 295089,
-					"name": "Rocksmith 2014 - Linkin Park - In The End"
-				},
-				{
-					"appid": 295090,
-					"name": "Rocksmith 2014 - Linkin Park - Numb"
-				},
-				{
-					"appid": 295091,
-					"name": "Rocksmith 2014 - Linkin Park - One Step Closer"
-				},
-				{
-					"appid": 295092,
-					"name": "Rocksmith 2014 - Linkin Park - What I've Done"
-				},
-				{
-					"appid": 295093,
-					"name": "Rocksmith 2014 - Linkin Park Song Pack"
-				},
-				{
-					"appid": 295094,
-					"name": "Rocksmith 2014 - Soundgarden - Black Hole Sun"
-				},
-				{
-					"appid": 295095,
-					"name": "Rocksmith 2014 - Soundgarden - Spoonman"
-				},
-				{
-					"appid": 295096,
-					"name": "Rocksmith 2014 - Soundgarden - Fell On Black Days"
-				},
-				{
-					"appid": 295097,
-					"name": "Rocksmith 2014 - Soundgarden - Jesus Christ Pose"
-				},
-				{
-					"appid": 295098,
-					"name": "Rocksmith 2014 - Soundgarden - Pretty Noose"
-				},
-				{
-					"appid": 295099,
-					"name": "Rocksmith 2014 - Soundgarden Song Pack"
-				},
-				{
 					"appid": 295110,
 					"name": "H1Z1"
 				},
@@ -52185,50 +49041,6 @@
 				{
 					"appid": 295390,
 					"name": "Football Manager 2015 Resource Archiver"
-				},
-				{
-					"appid": 295430,
-					"name": "Call of Duty: Ghosts - Bling Personalization Pack"
-				},
-				{
-					"appid": 295431,
-					"name": "Call of Duty: Ghosts - Extinction Personalization Pack"
-				},
-				{
-					"appid": 295432,
-					"name": "Call of Duty: Ghosts - Fitness Personalization Pack"
-				},
-				{
-					"appid": 295433,
-					"name": "Call of Duty: Ghosts - Koi Personalization Pack"
-				},
-				{
-					"appid": 295434,
-					"name": "Call of Duty: Ghosts - Heavy Metal Personalization Pack"
-				},
-				{
-					"appid": 295435,
-					"name": "Call of Duty: Ghosts - Unicorn Personalization Pack"
-				},
-				{
-					"appid": 295436,
-					"name": "Call of Duty: Ghosts - Spectrum Warrior"
-				},
-				{
-					"appid": 295437,
-					"name": "Call of Duty: Ghosts - Astronaut Character"
-				},
-				{
-					"appid": 295438,
-					"name": "Call of Duty: Ghosts - Squad Pack - Resistance"
-				},
-				{
-					"appid": 295439,
-					"name": "Call of Duty: Ghosts - Leopard Personalization Pack"
-				},
-				{
-					"appid": 295440,
-					"name": "Call of Duty: Ghosts - Abstract Personalization Pack"
 				},
 				{
 					"appid": 295490,
@@ -53425,34 +50237,6 @@
 				{
 					"appid": 301070,
 					"name": "Borderlands Granting Tool"
-				},
-				{
-					"appid": 301110,
-					"name": "Call of Duty: Ghosts - Flags of the World Pack"
-				},
-				{
-					"appid": 301111,
-					"name": "Call of Duty: Ghosts - Hydra Personalization Pack "
-				},
-				{
-					"appid": 301112,
-					"name": "Call of Duty: Ghosts - Skulls Personalization Pack"
-				},
-				{
-					"appid": 301113,
-					"name": "Call of Duty: Ghosts - Tattoo Personalization Pack"
-				},
-				{
-					"appid": 301114,
-					"name": "Call of Duty: Ghosts - Nebula Personalization Pack"
-				},
-				{
-					"appid": 301115,
-					"name": "Call of Duty: Ghosts - The Ripper"
-				},
-				{
-					"appid": 301116,
-					"name": "Call of Duty: Ghosts - The Maverick"
 				},
 				{
 					"appid": 301120,
@@ -55357,18 +52141,6 @@
 				{
 					"appid": 308580,
 					"name": "Orborun"
-				},
-				{
-					"appid": 309870,
-					"name": "Call of Duty: Ghosts - Blunt Force Character"
-				},
-				{
-					"appid": 309871,
-					"name": "Call of Duty: Ghosts - Inferno Character"
-				},
-				{
-					"appid": 309872,
-					"name": "Call of Duty: Ghosts - Bling Character"
 				},
 				{
 					"appid": 309890,
@@ -57735,70 +54507,6 @@
 					"name": "Dark Scavenger Demo"
 				},
 				{
-					"appid": 318790,
-					"name": "Call of Duty: Advanced Warfare - Atlas Gorge Map"
-				},
-				{
-					"appid": 318791,
-					"name": "Call of Duty: Advanced Warfare - Havoc Map Pack"
-				},
-				{
-					"appid": 318792,
-					"name": "Call of Duty: Advanced Warfare - Ascendance Map Pack"
-				},
-				{
-					"appid": 318793,
-					"name": "Call of Duty: Advanced Warfare - Supremacy Map Pack"
-				},
-				{
-					"appid": 318795,
-					"name": "Call of Duty: Advanced Warfare - Digital Edition Personalization Pack"
-				},
-				{
-					"appid": 318796,
-					"name": "Call of Duty: Advanced Warfare - Adv. Arsenal: Weapon - EM1 Quantum"
-				},
-				{
-					"appid": 318797,
-					"name": "Call of Duty: Advanced Warfare - Adv. Arsenal: Exo - Bullet Brass"
-				},
-				{
-					"appid": 318798,
-					"name": "Call of Duty: Advanced Warfare - Day Zero: Weapon - AK-12G"
-				},
-				{
-					"appid": 318799,
-					"name": "Call of Duty: Advanced Warfare - Day Zero: Weapon - Crossbow-B2"
-				},
-				{
-					"appid": 318800,
-					"name": "Call of Duty: Advanced Warfare - Atlas Digital Pack Content"
-				},
-				{
-					"appid": 318801,
-					"name": "Call of Duty: Advanced Warfare - Weapon - BAL-27 AE"
-				},
-				{
-					"appid": 318802,
-					"name": "Call of Duty: Advanced Warfare - Weapon - Atlas 45 AE"
-				},
-				{
-					"appid": 318803,
-					"name": "Call of Duty: Advanced Warfare - Exo - Atlas"
-				},
-				{
-					"appid": 318804,
-					"name": "Call of Duty: Advanced Warfare - Helmet - Atlas"
-				},
-				{
-					"appid": 318805,
-					"name": "Call of Duty: Advanced Warfare - Playercard - Atlas"
-				},
-				{
-					"appid": 318810,
-					"name": "Call of Duty: Advanced Warfare - SP Exo Upgrade"
-				},
-				{
 					"appid": 318820,
 					"name": "Sprite Lamp Demo"
 				},
@@ -59337,10 +56045,6 @@
 				{
 					"appid": 324200,
 					"name": "Wasteland 2 - Concept Art Book"
-				},
-				{
-					"appid": 324230,
-					"name": "Call of Duty: Advanced Warfare - Exo - Fuel Up For Battle"
 				},
 				{
 					"appid": 324240,
@@ -61199,106 +57903,6 @@
 					"name": "Fantasy Grounds - FATE Core Ruleset"
 				},
 				{
-					"appid": 331060,
-					"name": "Call of Duty: Advanced Warfare - Magma Personalization Pack "
-				},
-				{
-					"appid": 331061,
-					"name": "Call of Duty: Advanced Warfare - Lightning Personalization Pack"
-				},
-				{
-					"appid": 331062,
-					"name": "Call of Duty: Advanced Warfare - Creature Personalization Pack"
-				},
-				{
-					"appid": 331063,
-					"name": "Call of Duty: Advanced Warfare - Nanotech Personalization Pack"
-				},
-				{
-					"appid": 331064,
-					"name": "Call of Duty: Advanced Warfare - Magma Premium Personalization Pack"
-				},
-				{
-					"appid": 331065,
-					"name": "Call of Duty: Advanced Warfare - Lightning Premium Personalization Pack"
-				},
-				{
-					"appid": 331066,
-					"name": "Call of Duty: Advanced Warfare - Creature Premium Personalization Pack"
-				},
-				{
-					"appid": 331067,
-					"name": "Call of Duty: Advanced Warfare - Nanotech Premium Personalization Pack"
-				},
-				{
-					"appid": 331068,
-					"name": "Call of Duty: Advanced Warfare - Exo - Steampunk"
-				},
-				{
-					"appid": 331069,
-					"name": "Call of Duty: Advanced Warfare - Exo - Panda"
-				},
-				{
-					"appid": 331070,
-					"name": "Call of Duty: Advanced Warfare - Exo - Barong"
-				},
-				{
-					"appid": 331071,
-					"name": "Call of Duty: Advanced Warfare - Exo - Hot Rod"
-				},
-				{
-					"appid": 331072,
-					"name": "Call of Duty: Advanced Warfare - Flag Pack - United States"
-				},
-				{
-					"appid": 331103,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - NA: Rogue Edition: Weapons pack (Assault)"
-				},
-				{
-					"appid": 331104,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - NA: Rogue Edition: Weapons pack (Recon)"
-				},
-				{
-					"appid": 331105,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - NA: Rogue Edition: Weapons pack (Support)"
-				},
-				{
-					"appid": 331106,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - NA: Rogue Edition: Complete pack (Assault)"
-				},
-				{
-					"appid": 331107,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - NA: Rogue Edition: Complete pack (Recon)"
-				},
-				{
-					"appid": 331108,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - NA: Rogue Edition: Complete pack (Support)"
-				},
-				{
-					"appid": 331113,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - EU: Rogue Edition: Weapons pack (Assault)"
-				},
-				{
-					"appid": 331114,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - EU: Rogue Edition: Weapons pack (Recon)"
-				},
-				{
-					"appid": 331115,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - EU: Rogue Edition: Weapons pack (Support)"
-				},
-				{
-					"appid": 331116,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - EU: Rogue Edition: Complete pack (Assault)"
-				},
-				{
-					"appid": 331117,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - EU: Rogue Edition: Complete pack (Recon)"
-				},
-				{
-					"appid": 331118,
-					"name": "Tom Clancy’s Ghost Recon Phantoms - EU: Rogue Edition: Complete pack (Support)"
-				},
-				{
 					"appid": 331120,
 					"name": "Passing Pineview Forest"
 				},
@@ -61871,46 +58475,6 @@
 					"name": "ZMR: All-Class Mech Jump-Start Pack"
 				},
 				{
-					"appid": 333080,
-					"name": "Call of Duty: Advanced Warfare - Flag Pack - United Kingdom"
-				},
-				{
-					"appid": 333081,
-					"name": "Call of Duty: Advanced Warfare - Flag Pack - Canada"
-				},
-				{
-					"appid": 333082,
-					"name": "Call of Duty: Advanced Warfare - Flag Pack - France"
-				},
-				{
-					"appid": 333083,
-					"name": "Call of Duty: Advanced Warfare - Flag Pack - Germany"
-				},
-				{
-					"appid": 333084,
-					"name": "Call of Duty: Advanced Warfare - Flag Pack - Australia"
-				},
-				{
-					"appid": 333087,
-					"name": "Call of Duty: Advanced Warfare - Flag Pack - Italy"
-				},
-				{
-					"appid": 333088,
-					"name": "Call of Duty: Advanced Warfare - Flag Pack - Spain"
-				},
-				{
-					"appid": 333090,
-					"name": "RPG Maker: Shrouded Wonder Music Pack"
-				},
-				{
-					"appid": 333091,
-					"name": "RPG Maker: Fantastic Buildings - Medieval"
-				},
-				{
-					"appid": 333110,
-					"name": "Phantom Breaker: Battle Grounds - Kurisu Makise + Level 99 Pack"
-				},
-				{
 					"appid": 333120,
 					"name": "Inside The Gear"
 				},
@@ -62261,14 +58825,6 @@
 				{
 					"appid": 334190,
 					"name": "Insanity's Blade"
-				},
-				{
-					"appid": 334220,
-					"name": "Call of Duty: Advanced Warfare - Flag Pack - Netherlands"
-				},
-				{
-					"appid": 334221,
-					"name": "Call of Duty: Advanced Warfare - Flag Pack - Japan"
 				},
 				{
 					"appid": 334230,
@@ -64511,446 +61067,6 @@
 					"name": "Samudai"
 				},
 				{
-					"appid": 342750,
-					"name": "Rocksmith 2014 - Rick - Derringer - Rock & Roll Hoochie Koo"
-				},
-				{
-					"appid": 342751,
-					"name": "Rocksmith 2014 - Warrant - Cherry Pie"
-				},
-				{
-					"appid": 342752,
-					"name": "Rocksmith 2014 - Styx - Renegade"
-				},
-				{
-					"appid": 342753,
-					"name": "Rocksmith 2014 - Dio - Rainbow in the Dark"
-				},
-				{
-					"appid": 342754,
-					"name": "Rocksmith 2014 - Motörhead - Ace of Spades"
-				},
-				{
-					"appid": 342755,
-					"name": "Rocksmith 2014 - Three Days Grace - Animal I Have Become"
-				},
-				{
-					"appid": 342756,
-					"name": "Rocksmith 2014 - Three Days Grace - Riot"
-				},
-				{
-					"appid": 342757,
-					"name": "Rocksmith 2014 - Three Days Grace - Never Too Late"
-				},
-				{
-					"appid": 342758,
-					"name": "Rocksmith 2014 - Three Days Grace - Break"
-				},
-				{
-					"appid": 342759,
-					"name": "Rocksmith 2014 - Three Days Grace - Just Like You"
-				},
-				{
-					"appid": 342760,
-					"name": "Rocksmith 2014 - Three Days Grace Song Pack"
-				},
-				{
-					"appid": 342761,
-					"name": "Rocksmith 2014 - Cinderella - Don't Know What You Got (Till It's Gone)"
-				},
-				{
-					"appid": 342762,
-					"name": "Rocksmith 2014 - Tesla - Love Song"
-				},
-				{
-					"appid": 342763,
-					"name": "Rocksmith 2014 - Extreme - More Than Words"
-				},
-				{
-					"appid": 342764,
-					"name": "Rocksmith 2014 - Boston - Amanda"
-				},
-				{
-					"appid": 342765,
-					"name": "Rocksmith 2014 - Poison - Every Rose Has Its Thorn"
-				},
-				{
-					"appid": 342766,
-					"name": "Rocksmith 2014 - Seether - Remedy"
-				},
-				{
-					"appid": 342767,
-					"name": "Rocksmith 2014 - Seether - Fake It"
-				},
-				{
-					"appid": 342768,
-					"name": "Rocksmith 2014 - Seether - Broken"
-				},
-				{
-					"appid": 342769,
-					"name": "Rocksmith 2014 - Seether Song Pack"
-				},
-				{
-					"appid": 342770,
-					"name": "Rocksmith 2014 - Jane's Addiction - Mountain Song"
-				},
-				{
-					"appid": 342771,
-					"name": "Rocksmith 2014 - Jane's Addiction - Been Caught Stealing"
-				},
-				{
-					"appid": 342772,
-					"name": "Rocksmith 2014 - Jane's Addiction - Jane Says"
-				},
-				{
-					"appid": 342773,
-					"name": "Rocksmith 2014 - Jane's Addiction - Just Because"
-				},
-				{
-					"appid": 342774,
-					"name": "Rocksmith 2014 - Jane's Addiction - Superhero"
-				},
-				{
-					"appid": 342775,
-					"name": "Rocksmith 2014 - Jane's Addiction Song Pack"
-				},
-				{
-					"appid": 342776,
-					"name": "Rocksmith 2014 - Papa Roach - Last Resort"
-				},
-				{
-					"appid": 342777,
-					"name": "Rocksmith 2014 - Papa Roach - Scars"
-				},
-				{
-					"appid": 342778,
-					"name": "Rocksmith 2014 - Papa Roach - Getting Away With Murder"
-				},
-				{
-					"appid": 342779,
-					"name": "Rocksmith 2014 - Papa Roach Song Pack"
-				},
-				{
-					"appid": 342780,
-					"name": "Rocksmith 2014 - The Cars - Just What I Needed "
-				},
-				{
-					"appid": 342781,
-					"name": "Rocksmith 2014 - The Cars - Let's Go"
-				},
-				{
-					"appid": 342782,
-					"name": "Rocksmith 2014 - The Cars - Good Times Roll"
-				},
-				{
-					"appid": 342783,
-					"name": "Rocksmith 2014 - The Cars - You're All I've Got Tonight"
-				},
-				{
-					"appid": 342784,
-					"name": "Rocksmith 2014 - The Cars - Bye Bye Love"
-				},
-				{
-					"appid": 342785,
-					"name": "Rocksmith 2014 - The Cars Song Pack"
-				},
-				{
-					"appid": 342786,
-					"name": "Rocksmith 2014 - Jeff Buckley - Hallelujah"
-				},
-				{
-					"appid": 342787,
-					"name": "Rocksmith 2014 - Jeff Buckley - Grace"
-				},
-				{
-					"appid": 342788,
-					"name": "Rocksmith 2014 - Jeff Buckley - Last Goodbye"
-				},
-				{
-					"appid": 342789,
-					"name": "Rocksmith 2014 - Jeff Buckley Song Pack"
-				},
-				{
-					"appid": 342790,
-					"name": "Rocksmith 2014 - The Cranberries - Zombie"
-				},
-				{
-					"appid": 342791,
-					"name": "Rocksmith 2014 - Stiff Little Fingers - Alternative Ulster"
-				},
-				{
-					"appid": 342792,
-					"name": "Rocksmith 2014 - Dropkick Murphys - I'm Shipping Up to Boston"
-				},
-				{
-					"appid": 342793,
-					"name": "Rocksmith 2014 - Flogging Molly - Drunken Lullabies"
-				},
-				{
-					"appid": 342794,
-					"name": "Rocksmith 2014 - Villagers - Becoming a Jackal"
-				},
-				{
-					"appid": 342795,
-					"name": "Rocksmith 2014 - Shamrock Song Pack"
-				},
-				{
-					"appid": 342796,
-					"name": "Rocksmith 2014 - Anthrax - Madhouse"
-				},
-				{
-					"appid": 342797,
-					"name": "Rocksmith 2014 - Anthrax - Caught In A Mosh"
-				},
-				{
-					"appid": 342798,
-					"name": "Rocksmith 2014 - Anthrax - Indians"
-				},
-				{
-					"appid": 342799,
-					"name": "Rocksmith 2014 - Anthrax - Got The Time"
-				},
-				{
-					"appid": 342800,
-					"name": "Rocksmith 2014 - Anthrax Song Pack"
-				},
-				{
-					"appid": 342801,
-					"name": "Rocksmith 2014 - Spinal Tap - Tonight I'm Gonna Rock You Tonight"
-				},
-				{
-					"appid": 342802,
-					"name": "Rocksmith 2014 - Spinal Tap - Big Bottom"
-				},
-				{
-					"appid": 342803,
-					"name": "Rocksmith 2014 - Spinal Tap - Stonehenge"
-				},
-				{
-					"appid": 342804,
-					"name": "Rocksmith 2014 - Spinal Tap - Gimme Some Money"
-				},
-				{
-					"appid": 342805,
-					"name": "Rocksmith 2014 - Spinal Tap - Sex Farm"
-				},
-				{
-					"appid": 342806,
-					"name": "Rocksmith 2014 - Spinal Tap Song Pack"
-				},
-				{
-					"appid": 342807,
-					"name": "Rocksmith 2014 - Bush - Glycerine"
-				},
-				{
-					"appid": 342808,
-					"name": "Rocksmith 2014 - Bush - Comedown"
-				},
-				{
-					"appid": 342809,
-					"name": "Rocksmith 2014 - Bush - Everything Zen"
-				},
-				{
-					"appid": 342810,
-					"name": "Rocksmith 2014 - Bush - Swallowed"
-				},
-				{
-					"appid": 342811,
-					"name": "Rocksmith 2014 - Bush Song Pack"
-				},
-				{
-					"appid": 342812,
-					"name": "Rocksmith 2014 - Thin Lizzy - The Boys Are Back in Town"
-				},
-				{
-					"appid": 342813,
-					"name": "Rocksmith 2014 - Thin Lizzy - Jailbreak"
-				},
-				{
-					"appid": 342814,
-					"name": "Rocksmith 2014 - Thin Lizzy - Dancing In The Moonlight (It's Caught Me In Its Spotlight)"
-				},
-				{
-					"appid": 342815,
-					"name": "Rocksmith 2014 - Thin Lizzy Song Pack"
-				},
-				{
-					"appid": 342816,
-					"name": "Rocksmith 2014 - Stone Sour - Through Glass"
-				},
-				{
-					"appid": 342817,
-					"name": "Rocksmith 2014 - Lit - My Own Worst Enemy"
-				},
-				{
-					"appid": 342818,
-					"name": "Rocksmith 2014 - Yellowcard - Ocean Avenue"
-				},
-				{
-					"appid": 342819,
-					"name": "Rocksmith 2014 - Dinosaur Jr - Feel the Pain"
-				},
-				{
-					"appid": 342820,
-					"name": "Rocksmith 2014 - Fuel - Hemorrhage (In My Hands)"
-				},
-				{
-					"appid": 342821,
-					"name": "Rocksmith 2014 - Alt-Rock Song Pack"
-				},
-				{
-					"appid": 342822,
-					"name": "Rocksmith 2014 - Dethklok - Thunderhorse"
-				},
-				{
-					"appid": 342823,
-					"name": "Rocksmith 2014 - Dethklok - Awaken"
-				},
-				{
-					"appid": 342824,
-					"name": "Rocksmith 2014 - Dethklok - Go Into The Water"
-				},
-				{
-					"appid": 342825,
-					"name": "Rocksmith 2014 - Dethklok Song Pack"
-				},
-				{
-					"appid": 342826,
-					"name": "Rocksmith 2014 - Howlin' Wolf - Spoonful"
-				},
-				{
-					"appid": 342827,
-					"name": "Rocksmith 2014 - John Lee Hooker - Boom Boom"
-				},
-				{
-					"appid": 342828,
-					"name": "Rocksmith 2014 - Freddie King - Hide Away"
-				},
-				{
-					"appid": 342829,
-					"name": "Rocksmith 2014 - Bobby \"Blue\" Bland - Ain't No Love in the Heart of the City"
-				},
-				{
-					"appid": 342830,
-					"name": "Rocksmith 2014 - Johnny Winter - Be Careful With a Fool"
-				},
-				{
-					"appid": 342831,
-					"name": "Rocksmith 2014 - Blues Song Pack"
-				},
-				{
-					"appid": 342832,
-					"name": "Rocksmith 2014 - All That Remains - Two Weeks"
-				},
-				{
-					"appid": 342833,
-					"name": "Rocksmith 2014 - All That Remains - Six"
-				},
-				{
-					"appid": 342834,
-					"name": "Rocksmith 2014 - All That Remains - This Calling"
-				},
-				{
-					"appid": 342835,
-					"name": "Rocksmith 2014 - All That Remains Song Pack"
-				},
-				{
-					"appid": 342836,
-					"name": "Rocksmith 2014 - Slayer - Raining Blood"
-				},
-				{
-					"appid": 342837,
-					"name": "Rocksmith 2014 - Slayer - Angel of Death"
-				},
-				{
-					"appid": 342838,
-					"name": "Rocksmith 2014 - Slayer - Seasons In The Abyss"
-				},
-				{
-					"appid": 342839,
-					"name": "Rocksmith 2014 - Slayer - South of Heaven"
-				},
-				{
-					"appid": 342840,
-					"name": "Rocksmith 2014 - Slayer - Dead Skin Mask"
-				},
-				{
-					"appid": 342841,
-					"name": "Rocksmith 2014 - Slayer Song Pack"
-				},
-				{
-					"appid": 342842,
-					"name": "Rocksmith 2014 - The Cure - Friday I'm In Love"
-				},
-				{
-					"appid": 342843,
-					"name": "Rocksmith 2014 - Steve Vai - For The Love Of God"
-				},
-				{
-					"appid": 342844,
-					"name": "Rocksmith 2014 - Bill Withers - Lovely Day"
-				},
-				{
-					"appid": 342845,
-					"name": "Rocksmith 2014 - Love Singles Song Pack"
-				},
-				{
-					"appid": 342846,
-					"name": "Rocksmith 2014 - Queens of the Stone Age - No One Knows"
-				},
-				{
-					"appid": 342847,
-					"name": "Rocksmith 2014 - Queens of the Stone Age - 3s & 7s"
-				},
-				{
-					"appid": 342848,
-					"name": "Rocksmith 2014 - Queens of the Stone Age - Little Sister"
-				},
-				{
-					"appid": 342849,
-					"name": "Rocksmith 2014 - Queens of the Stone Age - Make It Wit Chu"
-				},
-				{
-					"appid": 342850,
-					"name": "Rocksmith 2014 - Queens of the Stone Age - I Appear Missing"
-				},
-				{
-					"appid": 342851,
-					"name": "Rocksmith 2014 - Queens of the Stone Age Song Pack"
-				},
-				{
-					"appid": 342852,
-					"name": "Rocksmith 2014 - Brian Setzer - Rock This Town"
-				},
-				{
-					"appid": 342853,
-					"name": "Rocksmith 2014 - Queen - Crazy Little Thing Called Love"
-				},
-				{
-					"appid": 342854,
-					"name": "Rocksmith 2014 - Carl Perkins - Blue Suede Shoes"
-				},
-				{
-					"appid": 342855,
-					"name": "Rocksmith 2014 - Gene Vincent and His Blue Caps - Be-Bop-A-Lula"
-				},
-				{
-					"appid": 342856,
-					"name": "Rocksmith 2014 - Ricky Nelson - Hello Mary Lou (Goodbye Heart)"
-				},
-				{
-					"appid": 342857,
-					"name": "Rocksmith 2014 - Rockabilly Song Pack"
-				},
-				{
-					"appid": 342858,
-					"name": "Rocksmith 2014 - Accept - Balls To The Wall"
-				},
-				{
-					"appid": 342859,
-					"name": "Rocksmith 2014 - Free - All Right Now"
-				},
-				{
 					"appid": 342860,
 					"name": "Dark Quest"
 				},
@@ -65133,54 +61249,6 @@
 				{
 					"appid": 343580,
 					"name": "Unhack:Destruction"
-				},
-				{
-					"appid": 343590,
-					"name": "Call of Duty: Advanced Warfare - Black Ops III Pre-Purchase Bonus Pack"
-				},
-				{
-					"appid": 343591,
-					"name": "Call of Duty: Advanced Warfare - Tiki Personalization Pack"
-				},
-				{
-					"appid": 343592,
-					"name": "Call of Duty: Advanced Warfare - Backdraft Personalization Pack"
-				},
-				{
-					"appid": 343593,
-					"name": "Call of Duty: Advanced Warfare - Lagoon Personalization Pack"
-				},
-				{
-					"appid": 343594,
-					"name": "Call of Duty: Advanced Warfare - Psychedelic Personalization Pack"
-				},
-				{
-					"appid": 343600,
-					"name": "Call of Duty: Advanced Warfare - Championship Premium Personalization Pack"
-				},
-				{
-					"appid": 343610,
-					"name": "Call of Duty: Advanced Warfare - Extra Create A Class Slots"
-				},
-				{
-					"appid": 343611,
-					"name": "Call of Duty: Advanced Warfare - Extra Armory Slots 1"
-				},
-				{
-					"appid": 343612,
-					"name": "Call of Duty: Advanced Warfare - Extra Armory Slots 2"
-				},
-				{
-					"appid": 343613,
-					"name": "Call of Duty: Advanced Warfare - Extra Armory Slots 3"
-				},
-				{
-					"appid": 343614,
-					"name": "Call of Duty: Advanced Warfare - Extra Armory Slots 4"
-				},
-				{
-					"appid": 343615,
-					"name": "Call of Duty: Advanced Warfare - Extra Armory Slots 5"
 				},
 				{
 					"appid": 343630,
@@ -71683,94 +67751,6 @@
 					"name": "Ongaku DJ Pack"
 				},
 				{
-					"appid": 369760,
-					"name": "Rocksmith 2014 - Tesla - Modern Day Cowboy"
-				},
-				{
-					"appid": 369761,
-					"name": "Rocksmith 2014 - The Edgar Winter Group - Frankenstein"
-				},
-				{
-					"appid": 369762,
-					"name": "Rocksmith 2014 - Player Picks Song Pack"
-				},
-				{
-					"appid": 369763,
-					"name": "Rocksmith 2014 - Primus - Jerry Was A Race Car Driver"
-				},
-				{
-					"appid": 369764,
-					"name": "Rocksmith 2014 - Primus - Tommy the Cat"
-				},
-				{
-					"appid": 369765,
-					"name": "Rocksmith 2014 - Primus - Wynona's Big Brown Beaver"
-				},
-				{
-					"appid": 369766,
-					"name": "Rocksmith 2014 - Primus - South Park Theme"
-				},
-				{
-					"appid": 369767,
-					"name": "Rocksmith 2014 - Primus Song Pack"
-				},
-				{
-					"appid": 369768,
-					"name": "Rocksmith 2014 - Willie Nelson - On the Road Again"
-				},
-				{
-					"appid": 369769,
-					"name": "Rocksmith 2014 - Roger Miller - King of the Road"
-				},
-				{
-					"appid": 369770,
-					"name": "Rocksmith 2014 - Hank Williams - I'm So Lonesome I Could Cry"
-				},
-				{
-					"appid": 369771,
-					"name": "Rocksmith 2014 - Classic Country Song Pack"
-				},
-				{
-					"appid": 369772,
-					"name": "Rocksmith 2014 - Volbeat - Still Counting"
-				},
-				{
-					"appid": 369773,
-					"name": "Rocksmith 2014 - Volbeat - Heaven Nor Hell"
-				},
-				{
-					"appid": 369774,
-					"name": "Rocksmith 2014 - Volbeat - Lola Montez"
-				},
-				{
-					"appid": 369775,
-					"name": "Rocksmith 2014 - Fallen"
-				},
-				{
-					"appid": 369776,
-					"name": "Rocksmith 2014 - Volbeat - A Warrior's Call"
-				},
-				{
-					"appid": 369777,
-					"name": "Rocksmith 2014 - Volbeat Song Pack"
-				},
-				{
-					"appid": 369778,
-					"name": "Rocksmith 2014 - Lynyrd Skynyrd - Tuesday's Gone"
-				},
-				{
-					"appid": 369779,
-					"name": "Rocksmith 2014 - Lynyrd Skynyrd - Gimme Three Steps"
-				},
-				{
-					"appid": 369780,
-					"name": "Rocksmith 2014 - Lynyrd Skynyrd - Call Me The Breeze"
-				},
-				{
-					"appid": 369781,
-					"name": "Rocksmith 2014 - Lynyrd Skynyrd Song Pack"
-				},
-				{
 					"appid": 369860,
 					"name": "Brain Guzzler"
 				},
@@ -72429,10 +68409,6 @@
 				{
 					"appid": 373023,
 					"name": "Blender: 1.4 UI Basics - User Preferences"
-				},
-				{
-					"appid": 373030,
-					"name": "Dota 2 - Short Film Contest"
 				},
 				{
 					"appid": 373080,
@@ -73129,22 +69105,6 @@
 				{
 					"appid": 376350,
 					"name": "OVERGRAVITY"
-				},
-				{
-					"appid": 376370,
-					"name": "Awesomenauts - Gnariachi Skin"
-				},
-				{
-					"appid": 376371,
-					"name": "Awesomenauts - Voltar Bonaparte Skin"
-				},
-				{
-					"appid": 376372,
-					"name": "Awesomenauts - Shinobi Rocco Skin"
-				},
-				{
-					"appid": 376373,
-					"name": "Awesomenauts - The Scrolls of XiPang Announcer"
 				},
 				{
 					"appid": 376390,
