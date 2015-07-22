@@ -211,42 +211,6 @@
 					"name": "Counter-Strike: Global Offensive - SDK"
 				},
 				{
-					"appid": 753,
-					"name": "Steam"
-				},
-				{
-					"appid": 754,
-					"name": "Steam Economy"
-				},
-				{
-					"appid": 755,
-					"name": "Steam Achievements"
-				},
-				{
-					"appid": 756,
-					"name": "Steam Big Picture"
-				},
-				{
-					"appid": 760,
-					"name": "Steam Screenshots"
-				},
-				{
-					"appid": 761,
-					"name": "Steam Cloud - Videos"
-				},
-				{
-					"appid": 764,
-					"name": "Steam Cloud - User Logs"
-				},
-				{
-					"appid": 765,
-					"name": "Greenlight"
-				},
-				{
-					"appid": 767,
-					"name": "Steam Artwork"
-				},
-				{
 					"appid": 852,
 					"name": "ValveTestApp852"
 				},
@@ -593,10 +557,6 @@
 				{
 					"appid": 1003,
 					"name": "Rag Doll Kung Fu Demo"
-				},
-				{
-					"appid": 1007,
-					"name": "Steamworks SDK Redist"
 				},
 				{
 					"appid": 1200,
@@ -5541,10 +5501,6 @@
 				{
 					"appid": 6610,
 					"name": "Bullet Candy Demo"
-				},
-				{
-					"appid": 6700,
-					"name": "SteamTestApp6700"
 				},
 				{
 					"appid": 6720,
@@ -13577,10 +13533,6 @@
 				{
 					"appid": 41015,
 					"name": "Serious Sam HD: The Second Encounter Dedicated Server"
-				},
-				{
-					"appid": 41017,
-					"name": "Steam Pre-order DLC"
 				},
 				{
 					"appid": 41018,
@@ -27495,10 +27447,6 @@
 					"name": "Beta Access to the New Steam Community"
 				},
 				{
-					"appid": 202352,
-					"name": "Steam Trading Card Beta Access"
-				},
-				{
 					"appid": 202370,
 					"name": "Scarygirl"
 				},
@@ -33119,10 +33067,6 @@
 					"name": "Dishonored: The Brigmore Witches RHCP"
 				},
 				{
-					"appid": 218800,
-					"name": "Steam Software Beta Access"
-				},
-				{
 					"appid": 218820,
 					"name": "Mercenary Kings"
 				},
@@ -33681,10 +33625,6 @@
 				{
 					"appid": 221380,
 					"name": "Age of Empires II: HD Edition"
-				},
-				{
-					"appid": 221410,
-					"name": "Steam for Linux"
 				},
 				{
 					"appid": 221430,
@@ -34397,10 +34337,6 @@
 				{
 					"appid": 223280,
 					"name": "Cut the Rope"
-				},
-				{
-					"appid": 223300,
-					"name": "Steam Hardware"
 				},
 				{
 					"appid": 223313,
@@ -38011,10 +37947,6 @@
 					"name": "MC6T - Cakewalk Expansion Pack - Steinway Piano"
 				},
 				{
-					"appid": 241100,
-					"name": "Steam Controller Configs"
-				},
-				{
 					"appid": 241120,
 					"name": "Agarest - Rebellious Pack DLC"
 				},
@@ -38675,10 +38607,6 @@
 					"name": "SpellForce 2 - Demons of the Past"
 				},
 				{
-					"appid": 245070,
-					"name": "Steam Summer Getaway"
-				},
-				{
 					"appid": 245130,
 					"name": "The Dead Linger"
 				},
@@ -39257,10 +39185,6 @@
 				{
 					"appid": 248190,
 					"name": "Knytt Underground"
-				},
-				{
-					"appid": 248210,
-					"name": "Game Library Sharing Access"
 				},
 				{
 					"appid": 248270,
@@ -46649,10 +46573,6 @@
 				{
 					"appid": 284680,
 					"name": "Tremor"
-				},
-				{
-					"appid": 284700,
-					"name": "Steam Beginners Package"
 				},
 				{
 					"appid": 284710,
@@ -63883,30 +63803,6 @@
 					"name": "how do you Do It?"
 				},
 				{
-					"appid": 353370,
-					"name": "Steam Controller"
-				},
-				{
-					"appid": 353380,
-					"name": "Steam Link"
-				},
-				{
-					"appid": 353390,
-					"name": "Alienware Steam Machine"
-				},
-				{
-					"appid": 353400,
-					"name": "Alternate Steam Machine"
-				},
-				{
-					"appid": 353410,
-					"name": "Asus ROG GR8S"
-				},
-				{
-					"appid": 353420,
-					"name": "Syber Steam Machine"
-				},
-				{
 					"appid": 353430,
 					"name": "Digital Storm Eclipse Steam Machine"
 				},
@@ -63945,10 +63841,6 @@
 				{
 					"appid": 353520,
 					"name": "Webhallen S15-01"
-				},
-				{
-					"appid": 353530,
-					"name": "ZOTAC Steam Machine SN970"
 				},
 				{
 					"appid": 353550,
@@ -65157,10 +65049,6 @@
 				{
 					"appid": 358700,
 					"name": "3d Bridges"
-				},
-				{
-					"appid": 358720,
-					"name": "SteamVR Developer Hardware"
 				},
 				{
 					"appid": 358770,
