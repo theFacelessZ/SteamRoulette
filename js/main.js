@@ -42,4 +42,6 @@ $(document).ready(function() {
     $('.gameName').bind("webkitAnimationEnd", function() {
         $(this).css('animation-name', 'none');
     });
+    
+    $('.dataWrapper').css('animation', 'showUp 500ms');
 });
