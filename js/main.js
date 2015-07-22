@@ -1,6 +1,6 @@
 var opacityTimer = setInterval(function() {
     var r = Math.random();
-    if (r >= 0.85) {
+    if (r >= 0.90) {
         $('.dataWrapper').css('opacity', r);
     }
 }, 300);

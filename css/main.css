@@ -6,7 +6,8 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #f2f2f2;
+    /*background-color: #f2f2f2;*/
+    background: radial-gradient(ellipse at center, rgb(167, 167, 167) 0%, rgb(72, 72, 72) 100%);
     width: 100%;
     height: 100%;
     position: relative;
@@ -116,7 +117,7 @@ body {
     
     border: 3px solid #68eb52;
     /*box-shadow: 0px 0px 1px 1px #68eb52;*/
-    box-shadow: 0px 0px 60px 1px rgba(104, 235, 82, 0.28), 0px 0px 5px 1px rgba(104, 235, 82, 0.47);
+    box-shadow: 0px 0px 60px 1px rgba(104, 235, 82, 0.28), 0px 0px 5px 1px rgba(104, 235, 82, 0.47), 0px 0px 60px 1px rgba(104, 235, 82, 0.18) inset;
     
     mix-blend-mode: screen;
     padding: 10px;
