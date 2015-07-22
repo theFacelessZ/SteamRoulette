@@ -5,11 +5,19 @@ var opacityTimer = setInterval(function() {
     }
 }, 300);
 
-function contains(s, c) {
-    if (s.toLowerCase().indexOf(c) >= 0) {
-        return true;
-    } 
-    return false;
+function contains(s) {
+    var args = Array.prototype.slice.call(arguments, 1);
+    var found = false;
+    
+    $(args).each(function() {
+        if (String(s).toLowerCase().indexOf(String(this)) >= 0) {
+            console.log('Found ' + this + ' in ' + s + ', skipping...');
+            found = true;
+            return false; //break
+        }
+    });
+    
+    return found;
 }
 
 function getRandom() {
@@ -21,7 +29,7 @@ function getRandom() {
         var r = Math.round(s * Math.random());
         var g = $(json.applist.apps.app)[r].name;
         
-        while(contains(g, "trailer") || contains(g, "pack") || contains(g, "demo") || contains(g, "additional content") || contains(g, "dlc") || contains(g, "beta") || contains(g, "add-on") || contains(g, "mod") || contains(g, "sdk") || contains(g, "soundtrack")) {
+        while(contains(g, "trailer", "pack", "demo", "additional content", "dlc", "beta", "add-on", "mod", "sdk", "soundtrack", "teaser", "server", "preorder", "bundle", "announcement", "content", "gameplay", "editor", "strategy guide", "bonus kit", "ost", "tutorial")) {
             r = Math.round(s * Math.random());
             g = $(json.applist.apps.app)[r].name;
         }

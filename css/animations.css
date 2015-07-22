@@ -33,12 +33,27 @@
 
 @keyframes gameShowUp {
     0% {
-        top: 80%;
+        top: -50%;
+        opacity: 1;
     }
-    20% {
-        top: 40%;
+    50% {
+        top: 150%;
+        opacity: 1;
+    }
+    51% {
+        top: 150%;
+        opacity: 0;
+    }
+    52% {
+        top: -50%;
+        opacity: 0;
+    }
+    53% {
+        top: -50%;
+        opacity: 1;
     }
     100% {
         top: 50%;
+        opacity: 1;
     }
 }
