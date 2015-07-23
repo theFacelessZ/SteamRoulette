@@ -5,19 +5,55 @@ var opacityTimer = setInterval(function() {
     }
 }, 300);
 
-function contains(s) {
+function containsWord(w) {
     var args = Array.prototype.slice.call(arguments, 1);
     var found = false;
+    //var fword = String(s);
     
     $(args).each(function() {
-        if (String(s).toLowerCase().indexOf(String(this).toLowerCase()) >= 0) {
-            console.log('Found ' + this + ' in ' + s + ', skipping...');
-            found = true;
-            return false; //break
+        var i = w.toLowerCase().indexOf(String(this).toLowerCase());
+        if (i >= 0) {
+            var s = this.length;
+            var t = w.length;
+            var c = w.charAt(i + s);
+            if (c == '' || c == ' ' || c == '.' || !isLetter(c)) {
+                console.log('Found ' + this + ' in ' + w + ', skipping...');
+                found = true;
+                return false; //break
+            }
         }
     });
     
     return found;
+}
+
+function contains(w) {
+    var args = Array.prototype.slice.call(arguments, 1);
+    var found = false;
+    
+    $(args).each(function() {
+        if (w.toLowerCase().indexOf(this.toLowerCase()) >= 0) {
+            console.log('Found ' + this + ' in ' + w + ', skipping...');
+            found = true;
+            return false;
+        }
+    });
+    
+    return found;
+}
+
+function getRandomGame(json) {
+    var s = $(json.applist.apps.app).size();
+    var r = Math.round(s * Math.random());
+    return $(json.applist.apps.app)[r];
+}
+
+function isLetter(c) {
+    if (c === ' ') return false;
+    if (c.toLowerCase() !== c.toUpperCase()) { //a tricky yet working method
+        return true;
+    }
+    return false;
 }
 
 function getRandom() {
@@ -25,20 +61,17 @@ function getRandom() {
     $.getJSON("gameData.json", function(json) {
         $('.gameName').css('animation-play-state', 'paused');
         
-        var s = $(json.applist.apps.app).size();
-        var r = Math.round(s * Math.random());
-        var g = $(json.applist.apps.app)[r].name;
+        var g = getRandomGame(json);
         
-        while(contains(g, "_", "ValveTestApp", "trailer", "video", "pack", "demo", "additional content", "dlc", "beta", "add-on", "mod", "sdk", "soundtrack", "teaser", "server", "preorder", "pre-order", "bundle", "announcement", "content", "gameplay", "editor", "strategy guide", "bonus kit", "ost", "tutorial", "amd", "web designer", "addon", "season pass", "cinematic", "intro", "press review", "online", "maya", "blender", "upgrade", "toolkit", "osx", "announcer", "digital art book", "pc gamer", "rpg maker", "magic 2014", "dev diary", "dota 2", "bonus", "official guide", "creator", " - ", "asus")) {
-            r = Math.round(s * Math.random());
-            g = $(json.applist.apps.app)[r].name;
+        while(containsWord(g.name, "-", "trailer", "video", "pack", "demo", "additional content", "dlc", "beta", "add-on", " mod", "sdk", "soundtrack", "teaser", "server", "preorder", "pre-order", "bundle", "announcement", "content", "gameplay", "editor", "strategy guide", "bonus kit", " ost", "tutorial", "amd", "web designer", "addon", "season pass", "cinematic", "intro", "press review", "online", "maya", "blender", "upgrade", "toolkit", "osx", "announcer", "digital art book", "pc gamer", "rpg maker", "magic 2014", "dev diary", "dota 2", "bonus", "official guide", "creator", "asus", "ebook") || contains(g.name, "_", "dlc")) {
+            g = getRandomGame(json);
         }
         
         $('.gameName').css('animation-name', 'gameShowUp');
         $('.gameName').css('animation-play-state', 'initial');
         
-        $('.gameName').html(g);
-        $('.gameName').attr('href', 'http://store.steampowered.com/app/' + $(json.applist.apps.app)[r].appid);
+        $('.gameName').html(g.name);
+        $('.gameName').attr('href', 'http://store.steampowered.com/app/' + g.appid);
     });
 }
 

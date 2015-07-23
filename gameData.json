@@ -211,14 +211,6 @@
 					"name": "Counter-Strike: Global Offensive - SDK"
 				},
 				{
-					"appid": 852,
-					"name": "ValveTestApp852"
-				},
-				{
-					"appid": 854,
-					"name": "ValveTestApp854"
-				},
-				{
 					"appid": 900,
 					"name": "Zombie Movie"
 				},
@@ -659,10 +651,6 @@
 					"name": "Darwinia Press Review"
 				},
 				{
-					"appid": 1507,
-					"name": "ValveTestApp1507-do-not-use"
-				},
-				{
 					"appid": 1510,
 					"name": "Uplink"
 				},
@@ -683,16 +671,8 @@
 					"name": "DEFCON Beta"
 				},
 				{
-					"appid": 1528,
-					"name": "ValveTestApp1528-do-not-use"
-				},
-				{
 					"appid": 1530,
 					"name": "Multiwinia"
-				},
-				{
-					"appid": 1532,
-					"name": "ValveTestApp1532"
 				},
 				{
 					"appid": 1535,
@@ -1481,10 +1461,6 @@
 				{
 					"appid": 3730,
 					"name": "Aliens versus Predator Classic 2000"
-				},
-				{
-					"appid": 3750,
-					"name": "ValveTestApp3750"
 				},
 				{
 					"appid": 3800,
@@ -5063,18 +5039,6 @@
 					"name": "Portal 2 Co-op Trailer"
 				},
 				{
-					"appid": 5927,
-					"name": "Chime01"
-				},
-				{
-					"appid": 5928,
-					"name": "chime03Tutorial"
-				},
-				{
-					"appid": 5929,
-					"name": "chime03Markus"
-				},
-				{
 					"appid": 5930,
 					"name": "Portal 2 PAX Trailer"
 				},
@@ -6259,10 +6223,6 @@
 					"name": "Supreme Commander"
 				},
 				{
-					"appid": 9360,
-					"name": "ValveTestApp9360"
-				},
-				{
 					"appid": 9370,
 					"name": "Supreme Commander Editor"
 				},
@@ -6891,22 +6851,6 @@
 					"name": "Counter-Strike Online"
 				},
 				{
-					"appid": 11602,
-					"name": "ValveTestApp11600 content 2"
-				},
-				{
-					"appid": 11603,
-					"name": "ValveTestApp11600 content 3"
-				},
-				{
-					"appid": 11604,
-					"name": "ValveTestApp11600 content 4"
-				},
-				{
-					"appid": 11605,
-					"name": "ValveTestApp11600 content 5"
-				},
-				{
 					"appid": 11610,
 					"name": "Dragon Nest"
 				},
@@ -7185,10 +7129,6 @@
 				{
 					"appid": 12840,
 					"name": "DiRT 2"
-				},
-				{
-					"appid": 12849,
-					"name": "ValveTestApp12849"
 				},
 				{
 					"appid": 12850,
@@ -8411,14 +8351,6 @@
 					"name": "Shaun White Snowboarding"
 				},
 				{
-					"appid": 20004,
-					"name": "ValveTestApp20004"
-				},
-				{
-					"appid": 20005,
-					"name": "ValveTestApp20005"
-				},
-				{
 					"appid": 20200,
 					"name": "Galactic Bowling"
 				},
@@ -8993,10 +8925,6 @@
 				{
 					"appid": 22364,
 					"name": "Brink Agents of Change DLC"
-				},
-				{
-					"appid": 22365,
-					"name": "ValveTestApp22365"
 				},
 				{
 					"appid": 22370,
@@ -10835,14 +10763,6 @@
 					"name": "Tom Bui Test App"
 				},
 				{
-					"appid": 30010,
-					"name": "ValveTestApp30010"
-				},
-				{
-					"appid": 30040,
-					"name": "ValveTestApp30040"
-				},
-				{
 					"appid": 31100,
 					"name": "Wallace & Gromit Ep 1: Fright of the Bumblebees"
 				},
@@ -11673,10 +11593,6 @@
 				{
 					"appid": 33935,
 					"name": "Arma 2: Operation Arrowhead - Dedicated Server"
-				},
-				{
-					"appid": 33936,
-					"name": "ValveTestApp33936"
 				},
 				{
 					"appid": 33950,
@@ -13747,10 +13663,6 @@
 					"name": "Trino"
 				},
 				{
-					"appid": 42110,
-					"name": "ValveTestApp42110"
-				},
-				{
 					"appid": 42120,
 					"name": "Lead and Gold - Gangs of the Wild West"
 				},
@@ -13813,14 +13725,6 @@
 				{
 					"appid": 42510,
 					"name": "Dogfighter Demo"
-				},
-				{
-					"appid": 42520,
-					"name": "ValveTestApp42520"
-				},
-				{
-					"appid": 42521,
-					"name": "ValveTestApp42521"
 				},
 				{
 					"appid": 42640,
@@ -14313,14 +14217,6 @@
 				{
 					"appid": 45776,
 					"name": "Dead Rising 2: Off the Record Firefighter Skills Pack"
-				},
-				{
-					"appid": 45777,
-					"name": "ValveTestApp45777"
-				},
-				{
-					"appid": 45778,
-					"name": "ValveTestApp45778"
 				},
 				{
 					"appid": 45790,
@@ -15323,10 +15219,6 @@
 					"name": "Humanoids Persona Pack"
 				},
 				{
-					"appid": 49478,
-					"name": "ValveTestApp49478"
-				},
-				{
 					"appid": 49479,
 					"name": "Magic: The Gathering - Duels of the Planeswalker 2012 Persona Pack: Dragons"
 				},
@@ -15911,10 +15803,6 @@
 					"name": "HOMEFRONT [Dev]"
 				},
 				{
-					"appid": 55182,
-					"name": "ValveTestApp55182 DLC"
-				},
-				{
 					"appid": 55190,
 					"name": "HOMEFRONT [Alpha]"
 				},
@@ -16015,10 +15903,6 @@
 					"name": "Warhammer 40,000: Space Marine - Power Sword"
 				},
 				{
-					"appid": 55346,
-					"name": "ValveTestApp55150 DLC1 - PL"
-				},
-				{
 					"appid": 55347,
 					"name": "Warhammer 40,000: Space Marine - Chaos Unleashed Map Pack"
 				},
@@ -16045,14 +15929,6 @@
 				{
 					"appid": 55382,
 					"name": "Saints Row: The Third - The Trouble With Clones"
-				},
-				{
-					"appid": 55383,
-					"name": "ValveTestApp55383"
-				},
-				{
-					"appid": 55384,
-					"name": "ValveTestApp55384"
 				},
 				{
 					"appid": 55385,
@@ -16237,18 +16113,6 @@
 				{
 					"appid": 56489,
 					"name": "Warhammer 40,000: Dawn of War II Retribution - Death Korps of Krieg Skin Pack"
-				},
-				{
-					"appid": 56490,
-					"name": "ValveTestApp56490"
-				},
-				{
-					"appid": 56491,
-					"name": "ValveTestApp56491"
-				},
-				{
-					"appid": 56492,
-					"name": "ValveTestApp56492"
 				},
 				{
 					"appid": 56493,
@@ -16679,10 +16543,6 @@
 					"name": "HOARD: Sandwich Pack"
 				},
 				{
-					"appid": 63005,
-					"name": "ValveTestApp63005"
-				},
-				{
 					"appid": 63010,
 					"name": "HOARD - Demo"
 				},
@@ -16825,10 +16685,6 @@
 				{
 					"appid": 63950,
 					"name": "IL-2 Sturmovik: Cliffs of Dover"
-				},
-				{
-					"appid": 63953,
-					"name": "ValveTestApp63953"
 				},
 				{
 					"appid": 63958,
@@ -17293,10 +17149,6 @@
 				{
 					"appid": 67379,
 					"name": "Darkness II Low Violence"
-				},
-				{
-					"appid": 67684,
-					"name": "ValveTestApp67684"
 				},
 				{
 					"appid": 70000,
@@ -17819,10 +17671,6 @@
 					"name": "Magicka: The Lonely Cruise"
 				},
 				{
-					"appid": 73040,
-					"name": "ValveTestApp73040"
-				},
-				{
 					"appid": 73041,
 					"name": "Majesty 2: Monster Kingdom"
 				},
@@ -17849,10 +17697,6 @@
 				{
 					"appid": 73058,
 					"name": "Magicka: The Stars Are Left "
-				},
-				{
-					"appid": 73059,
-					"name": "ValveTestApp73059"
 				},
 				{
 					"appid": 73060,
@@ -24907,10 +24751,6 @@
 					"name": "Sanctum Journalist DLC"
 				},
 				{
-					"appid": 91603,
-					"name": "ValveTestApp91603"
-				},
-				{
 					"appid": 91604,
 					"name": "Sanctum: Official Soundtrack"
 				},
@@ -24965,26 +24805,6 @@
 				{
 					"appid": 91618,
 					"name": "Sanctum - Map Pack 2"
-				},
-				{
-					"appid": 91619,
-					"name": "ValveTestApp91619"
-				},
-				{
-					"appid": 91621,
-					"name": "ValveTestApp91621"
-				},
-				{
-					"appid": 91622,
-					"name": "ValveTestApp91622"
-				},
-				{
-					"appid": 91623,
-					"name": "ValveTestApp91623"
-				},
-				{
-					"appid": 91624,
-					"name": "ValveTestApp91624"
 				},
 				{
 					"appid": 91700,
@@ -25153,10 +24973,6 @@
 				{
 					"appid": 93207,
 					"name": "Revenge of the Titans: Soundtrack"
-				},
-				{
-					"appid": 93305,
-					"name": "ValveTestApp93305"
 				},
 				{
 					"appid": 94000,
@@ -25839,14 +25655,6 @@
 					"name": "Crysis 2 Standard Edition Game Code"
 				},
 				{
-					"appid": 99845,
-					"name": "ValveTestApp99845"
-				},
-				{
-					"appid": 99846,
-					"name": "ValveTestApp99846"
-				},
-				{
 					"appid": 99850,
 					"name": "Crysis 2 Demo"
 				},
@@ -25955,40 +25763,12 @@
 					"name": "CivilizationV-DLC Ancient Wonders Mac"
 				},
 				{
-					"appid": 102020,
-					"name": "ValveTestApp102020"
-				},
-				{
 					"appid": 102028,
 					"name": "Hail to the Icons Parody Pack Mac"
 				},
 				{
 					"appid": 102029,
 					"name": "The Doctor Who Cloned Me Mac"
-				},
-				{
-					"appid": 102030,
-					"name": "ValveTestApp102030"
-				},
-				{
-					"appid": 102031,
-					"name": "ValveTestApp102031"
-				},
-				{
-					"appid": 102032,
-					"name": "ValveTestApp102032"
-				},
-				{
-					"appid": 102033,
-					"name": "ValveTestApp102033"
-				},
-				{
-					"appid": 102034,
-					"name": "ValveTestApp102034"
-				},
-				{
-					"appid": 102035,
-					"name": "ValveTestApp102035"
 				},
 				{
 					"appid": 102200,
@@ -26295,10 +26075,6 @@
 					"name": "Waves Demo"
 				},
 				{
-					"appid": 107702,
-					"name": "ValveTestApp107700 DLC"
-				},
-				{
 					"appid": 107800,
 					"name": "Rochard"
 				},
@@ -26333,10 +26109,6 @@
 				{
 					"appid": 108210,
 					"name": "Memoir '44 Online"
-				},
-				{
-					"appid": 108220,
-					"name": "ValveTestApp108220"
 				},
 				{
 					"appid": 108230,
@@ -26905,26 +26677,6 @@
 				{
 					"appid": 200730,
 					"name": "Awesome DLC #1: You Will Eventually Come to a Point in Your Life Where You Appreciate Christmas Mall Music"
-				},
-				{
-					"appid": 200731,
-					"name": "ValveTestApp200731"
-				},
-				{
-					"appid": 200732,
-					"name": "ValveTestApp200732"
-				},
-				{
-					"appid": 200733,
-					"name": "ValveTestApp200733"
-				},
-				{
-					"appid": 200734,
-					"name": "ValveTestApp200734"
-				},
-				{
-					"appid": 200735,
-					"name": "ValveTestApp200735"
 				},
 				{
 					"appid": 200770,
@@ -27625,18 +27377,6 @@
 				{
 					"appid": 203181,
 					"name": "FUBAR Pack"
-				},
-				{
-					"appid": 203182,
-					"name": "ValveTestApp203182"
-				},
-				{
-					"appid": 203183,
-					"name": "ValveTestApp203183"
-				},
-				{
-					"appid": 203184,
-					"name": "ValveTestApp203184"
 				},
 				{
 					"appid": 203190,
@@ -28757,10 +28497,6 @@
 				{
 					"appid": 207011,
 					"name": "Alien Spidy: Between a Rock and a Hard Place "
-				},
-				{
-					"appid": 207012,
-					"name": "ValveTestApp207012"
 				},
 				{
 					"appid": 207020,
@@ -33729,14 +33465,6 @@
 				{
 					"appid": 222223,
 					"name": "A Game of Dwarves: Pets"
-				},
-				{
-					"appid": 222224,
-					"name": "ValveTestApp222224"
-				},
-				{
-					"appid": 222225,
-					"name": "ValveTestApp222225"
 				},
 				{
 					"appid": 222240,
@@ -47273,10 +47001,6 @@
 				{
 					"appid": 288250,
 					"name": "Meridian: New World Map Editor"
-				},
-				{
-					"appid": 288270,
-					"name": "liteCam HD: Capture twitch.tv Live Stream"
 				},
 				{
 					"appid": 288290,
