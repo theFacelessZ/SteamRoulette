@@ -63,7 +63,7 @@ function getRandom() {
         
         var g = getRandomGame(json);
         
-        while(containsWord(g.name, "-", "trailer", "video", "pack", "demo", "additional content", "dlc", "beta", "add-on", " mod", "sdk", "soundtrack", "teaser", "server", "preorder", "pre-order", "bundle", "announcement", "content", "gameplay", "editor", "strategy guide", "bonus kit", " ost", "tutorial", "amd", "web designer", "addon", "season pass", "cinematic", "intro", "press review", "online", "maya", "blender", "upgrade", "toolkit", "osx", "announcer", "digital art book", "pc gamer", "rpg maker", "magic 2014", "dev diary", "dota 2", "bonus", "official guide", "creator", "asus", "ebook") || contains(g.name, "_", "dlc")) {
+        while(containsWord(g.name, "-", "trailer", "video", "pack", "demo", "additional content", "dlc", "beta", "add-on", " mod", "sdk", "soundtrack", "teaser", "server", "preorder", "pre-order", "bundle", "announcement", "content", "gameplay", "editor", "strategy guide", "bonus kit", " ost", "tutorial", "amd", "web designer", "addon", "season pass", "cinematic", "intro", "press review", "online", "maya", "blender", "upgrade", "toolkit", "osx", "announcer", "digital art book", "pc gamer", "rpg maker", "magic 2014", "dev diary", "dota 2", "bonus", "official guide", "creator", "asus", "ebook") || contains(g.name, "_", "dlc", "steam machine")) {
             g = getRandomGame(json);
         }
         
@@ -82,6 +82,13 @@ $(window).load(function() {
     
     $('.dataWrapper').removeAttr('style');
     $('.dataWrapper').css('animation', 'showUp 500ms');
+    
+    //switch loading screen
+    $('#loadingContainer').animate({opacity: 0}, 800, "easeOutCubic", function() {
+        $(this).hide();
+        $('#mainContainer').show();
+        $('#mainContainer').animate({opacity: 1}, 1500, "easeOutCubic");
+    });
 });
 
 $(document).ready(function() {

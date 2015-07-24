@@ -185,3 +185,19 @@ footer p:last-child {
     color: #8eff7b;
     text-shadow: 0px 0px 60px rgba(104, 235, 82, 0.38), 0px 0px 15px rgba(104, 235, 82, 0.67);
 }
+
+#loadingContainer {
+    position: absolute;
+    display: block;
+    
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    
+    color: white;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 30pt;
+    
+    text-shadow: 0px 0px 15px rgba(0, 0, 0, 0.55);
+}
